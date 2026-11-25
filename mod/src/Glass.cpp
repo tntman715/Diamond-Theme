@@ -119,7 +119,7 @@ CCGLProgram* makeProgram(char const* frag, char const* vert = VERTEX) {
 	p->addAttribute(kCCAttributeNameColor, kCCVertexAttrib_Color);
 	p->addAttribute(kCCAttributeNameTexCoord, kCCVertexAttrib_TexCoords);
 	if (!p->link()) {
-		log::error("glass shader link failed: {}", p->programLog());
+		log::error("glass shader link failed: {}", theme::linkLog(p));
 		p->release();
 		return nullptr;
 	}

@@ -9,6 +9,7 @@
 #include <algorithm>
 #include <chrono>
 #include <cmath>
+#include <cstring>
 #include <mutex>
 #include <unordered_set>
 
@@ -1551,6 +1552,16 @@ void loadPacks() {
 	}
 }
 
+std::string linkLog(CCGLProgram* p) {
+	GLint len = 0;
+	glGetProgramiv(p->getProgram(), GL_INFO_LOG_LENGTH, &len);
+	if (len <= 1) return {};
+	std::string out(static_cast<size_t>(len), '\0');
+	glGetProgramInfoLog(p->getProgram(), len, nullptr, out.data());
+	out.resize(std::strlen(out.c_str()));
+	return out;
+}
+
 namespace {
 
 // 셰이더 컴파일/링크 + uniform 위치. 컨텍스트가 바뀌면 같은 객체에 다시 호출한다
@@ -1564,7 +1575,7 @@ bool initProgram(CCGLProgram* p) {
 	p->addAttribute(kCCAttributeNameColor, kCCVertexAttrib_Color);
 	p->addAttribute(kCCAttributeNameTexCoord, kCCVertexAttrib_TexCoords);
 	if (!p->link()) {
-		log::error("shader link failed: {}", p->programLog());
+		log::error("shader link failed: {}", linkLog(p));
 		return false;
 	}
 	p->updateUniforms();

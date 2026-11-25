@@ -243,6 +243,9 @@ Settings const& current();
 
 Stats& stats();
 bool statsEnabled();
+
+// 셰이더 링크 오류 로그. CCGLProgram::programLog는 맥(M1)판에 없어 GL에서 직접 읽는다.
+std::string linkLog(cocos2d::CCGLProgram* p);
 void tickStats();
 
 // 셰이더를 쓰는 상태에서 호출 (전역 설정은 프레임당 한 번만 보낸다)
