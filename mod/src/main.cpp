@@ -121,12 +121,15 @@ class $modify(ThemedTextureCache, CCTextureCache) {
 };
 
 // GD가 그래픽 설정 변경/전체 화면 전환 때 기본 셰이더를 다시 만든다. 우리 셰이더도 같이 확인한다.
+// iOS판은 이 함수가 인라인이라 걸 수 없다. 그때는 매 프레임 프로그램 검사(checkGL)만으로 복구한다.
+#ifndef GEODE_IS_IOS
 class $modify(ThemedShaderCache, CCShaderCache) {
 	void reloadDefaultShaders() {
 		CCShaderCache::reloadDefaultShaders();
 		theme::onShadersReloaded();
 	}
 };
+#endif
 
 // 리스트 칸 배경: GD의 모든 리스트 칸(레벨, 댓글, 업적, 아티스트 등)은 m_backgroundLayer에
 // (161,88,44) / (194,114,62) 갈색을 번갈아 칠한다. 그 색으로 칠해진 레이어를 기억해 두었다가

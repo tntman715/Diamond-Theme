@@ -70,7 +70,7 @@ ccColor3B colorOf(Field const& f) {
 	auto const& v = stored(f);
 	if (v.isObject()) {
 		auto ch = [&](char const* c, GLubyte d) {
-			return static_cast<GLubyte>(std::clamp(v[c].asInt().unwrapOr(d), 0ll, 255ll));
+			return static_cast<GLubyte>(std::clamp<int64_t>(v[c].asInt().unwrapOr(d), 0, 255));
 		};
 		return {ch("r", f.defColor.r), ch("g", f.defColor.g), ch("b", f.defColor.b)};
 	}

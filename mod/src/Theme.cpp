@@ -1108,7 +1108,7 @@ struct Source {
 		if (!v) return cur;
 		if (v->isObject()) {   // Geode 저장 형식: {"r": .., "g": .., "b": ..}
 			auto ch = [&](char const* c, GLubyte d) {
-				return static_cast<GLubyte>(std::clamp((*v)[c].asInt().unwrapOr(d), 0ll, 255ll));
+				return static_cast<GLubyte>(std::clamp<int64_t>((*v)[c].asInt().unwrapOr(d), 0, 255));
 			};
 			return {ch("r", cur.r), ch("g", cur.g), ch("b", cur.b)};
 		}
@@ -1600,9 +1600,14 @@ bool initProgram(CCGLProgram* p) {
 	return true;
 }
 
+// 창 핸들은 윈도우판 CCEGLView에만 있다. 다른 기기는 창 비교 없이 프로그램 검사만으로 복구한다.
 void* currentWindow() {
+#ifdef GEODE_IS_WINDOWS
 	auto view = CCEGLView::sharedOpenGLView();
 	return view ? static_cast<void*>(view->getWindow()) : nullptr;
+#else
+	return nullptr;
+#endif
 }
 
 // 우리 셰이더 프로그램이 지금 컨텍스트에서도 살아 있는지.
