@@ -1,0 +1,63 @@
+{
+ "frames": {
+  "GJ_freeChestBtn_001.png": {
+   "regions": {
+    "2": "icon",
+    "8": "icon",
+    "10": "icon",
+    "13": "icon"
+   }
+  },
+  "GJ_freeStuffBtn_001.png": {
+   "regions": {
+    "7": "outline"
+   }
+  },
+  "GJ_zoomInBtn_001.png": {
+   "regions": {
+    "3": "body"
+   }
+  },
+  "GJ_dailyRewardBtn_001.png": {
+   "regions": {
+    "8": "body",
+    "12": "icon",
+    "13": "icon",
+    "14": "icon",
+    "15": "icon",
+    "16": "icon"
+   }
+  },
+  "sideBtn_quests_001.png": {
+   "splitColor": [
+    2
+   ]
+  },
+  "sideBtn_practiceUI_001.png": {
+   "splitColor": [
+    2
+   ]
+  },
+  "threadBtn_blockOn_001.png": {
+   "splitColor": [
+    2
+   ]
+  },
+  "threadBtn_ignoreOn_001.png": {
+   "splitColor": [
+    2
+   ]
+  },
+  "threadBtn_muteOn_001.png": {
+   "splitColor": [
+    2
+   ]
+  },
+  "GJ_newsBtn_001.png": {
+   "regions": {
+    "2": "icon",
+    "7": "icon"
+   }
+  }
+ }
+}

@@ -1,0 +1,2025 @@
+{
+ "schema": 1,
+ "source": "vanilla GD 2.2081 (preview/assets/vanilla-gd)",
+ "frames": {
+  "GJ_playBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "body",
+    "4": "body",
+    "5": "icon",
+    "6": "body",
+    "7": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 8203,
+    "2": 54324,
+    "3": 6400,
+    "4": 6320,
+    "5": 18007,
+    "6": 6398,
+    "7": 6241
+   },
+   "note": "cyan cross corners are body pieces"
+  },
+  "GJ_garageBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "body",
+    "4": "body",
+    "5": "icon",
+    "6": "body",
+    "7": "body",
+    "8": [
+     "icon",
+     "body"
+    ],
+    "9": [
+     "icon",
+     "body"
+    ],
+    "10": [
+     "icon",
+     "body"
+    ],
+    "11": "body",
+    "12": "body",
+    "13": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3451,
+    "2": 3447,
+    "3": 1881,
+    "4": 1928,
+    "5": 13709,
+    "6": 3354,
+    "7": 3586,
+    "8": 361,
+    "9": 342,
+    "10": 953,
+    "11": 1904,
+    "12": 1959,
+    "13": 3579
+   },
+   "note": "cube eyes/mouth: icon or body both accepted"
+  },
+  "GJ_creatorBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "body",
+    "4": "body",
+    "5": "icon",
+    "6": "icon",
+    "9": "body",
+    "10": "body",
+    "11": "body",
+    "12": "body",
+    "13": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3388,
+    "2": 4920,
+    "3": 1827,
+    "4": 1681,
+    "5": 1747,
+    "6": 8064,
+    "9": 4945,
+    "10": 5606,
+    "11": 5852,
+    "12": 2210,
+    "13": 1546
+   },
+   "note": ""
+  },
+  "GJ_optionsBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 4157,
+    "2": 8594,
+    "3": 5330,
+    "4": 3323
+   },
+   "note": "gear center hole shows the body: body"
+  },
+  "GJ_achBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "body",
+    "5": "body",
+    "6": "body",
+    "7": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 4300,
+    "2": 10271,
+    "3": 6602,
+    "4": 47,
+    "5": 42,
+    "6": 42,
+    "7": 46
+   },
+   "note": "green squares in the trophy handles are holes showing the body (corrected after the Gemini Flash 3.8 run, 2026-10-21)"
+  },
+  "GJ_statsBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 4157,
+    "2": 12227,
+    "3": 2320,
+    "4": 1670,
+    "5": 1968
+   },
+   "note": ""
+  },
+  "GJ_infoBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 13020,
+    "3": 1545,
+    "4": 558
+   },
+   "note": ""
+  },
+  "GJ_ngBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "body",
+    "5": "icon",
+    "6": "body",
+    "7": "icon",
+    "8": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3983,
+    "2": 3890,
+    "3": 11639,
+    "4": 134,
+    "5": 1454,
+    "6": 453,
+    "7": 426,
+    "8": 640
+   },
+   "note": "the tank pokes out over the rim: icon; green background pieces: body"
+  },
+  "GJ_moreGamesBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "body",
+    "4": "body",
+    "5": "icon",
+    "6": "icon",
+    "7": "icon",
+    "8": "icon",
+    "9": "body",
+    "15": "body",
+    "17": "outline",
+    "18": "outline",
+    "19": "icon",
+    "20": "icon",
+    "21": "icon",
+    "22": "icon",
+    "23": "icon",
+    "26": "body",
+    "27": "body",
+    "28": "body",
+    "29": "body",
+    "30": "outline"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "17": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "18": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "19": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "20": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "21": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "22": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "23": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "26": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "27": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "28": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "29": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "30": [
+     "outline",
+     "baseline: light region touching the outside"
+    ]
+   },
+   "px": {
+    "1": 981,
+    "2": 2510,
+    "3": 750,
+    "4": 666,
+    "5": 3471,
+    "6": 2671,
+    "7": 2566,
+    "8": 1917,
+    "9": 169,
+    "15": 8273,
+    "17": 85,
+    "18": 106,
+    "19": 2314,
+    "20": 2687,
+    "21": 3448,
+    "22": 1911,
+    "23": 2024,
+    "26": 72,
+    "27": 3555,
+    "28": 1223,
+    "29": 942,
+    "30": 1091
+   },
+   "note": "letters reaching over the rim are icon; green inside the letters (O etc.) is the body showing through (corrected after the Gemini Flash 3.8 run, 2026-10-21)"
+  },
+  "GJ_freeStuffBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon",
+    "7": "outline",
+    "8": "outline",
+    "9": "body",
+    "10": "icon",
+    "11": "icon",
+    "12": "icon",
+    "13": "icon",
+    "14": "icon",
+    "15": "icon",
+    "16": "body",
+    "17": "outline"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "16": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "17": [
+     "outline",
+     "baseline: light region touching the outside"
+    ]
+   },
+   "px": {
+    "1": 1029,
+    "2": 1683,
+    "3": 1271,
+    "4": 1295,
+    "5": 1126,
+    "6": 1126,
+    "7": 261,
+    "8": 212,
+    "9": 2993,
+    "10": 1015,
+    "11": 523,
+    "12": 596,
+    "13": 752,
+    "14": 658,
+    "15": 658,
+    "16": 2059,
+    "17": 1197
+   },
+   "note": "region 7 is the shaded right part of the white ring (extractor calls it icon)"
+  },
+  "GJ_musicLibraryBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "icon",
+    "3": "body",
+    "4": "body",
+    "5": "icon",
+    "6": "icon",
+    "7": "icon",
+    "8": "icon",
+    "9": "icon",
+    "10": "icon",
+    "12": "body",
+    "13": "icon",
+    "14": "icon",
+    "15": "outline",
+    "16": "icon",
+    "17": "icon",
+    "18": "icon",
+    "19": "icon",
+    "20": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "16": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "17": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "18": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "19": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "20": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 2002,
+    "2": 479,
+    "3": 6542,
+    "4": 3304,
+    "5": 698,
+    "6": 293,
+    "7": 503,
+    "8": 469,
+    "9": 1031,
+    "10": 532,
+    "12": 156,
+    "13": 482,
+    "14": 441,
+    "15": 1518,
+    "16": 780,
+    "17": 281,
+    "18": 541,
+    "19": 463,
+    "20": 371
+   },
+   "note": "pink inside the note is the body showing through (corrected after the Gemini Flash 3.8 run, 2026-10-21)"
+  },
+  "GJ_freeLevelsBtn_001.png": {
+   "truth": {
+    "1": "icon",
+    "2": "outline",
+    "3": "body",
+    "4": "icon",
+    "5": "outline",
+    "6": "outline",
+    "7": "body",
+    "8": "body",
+    "9": "icon",
+    "11": "icon",
+    "14": "icon",
+    "16": "body",
+    "17": "body",
+    "20": "icon",
+    "21": "icon",
+    "23": "body",
+    "24": "body",
+    "25": "icon",
+    "28": "icon",
+    "29": "icon",
+    "31": "outline"
+   },
+   "baseline": {
+    "1": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "2": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "6": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "16": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "17": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "20": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "21": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "23": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "24": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "25": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "28": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "29": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "31": [
+     "outline",
+     "baseline: light region touching the outside"
+    ]
+   },
+   "px": {
+    "1": 1322,
+    "2": 162,
+    "3": 5119,
+    "4": 2047,
+    "5": 1151,
+    "6": 913,
+    "7": 1653,
+    "8": 997,
+    "9": 1291,
+    "11": 2060,
+    "14": 1116,
+    "16": 4024,
+    "17": 3281,
+    "20": 1292,
+    "21": 1787,
+    "23": 1658,
+    "24": 1288,
+    "25": 1000,
+    "28": 1789,
+    "29": 1349,
+    "31": 240
+   },
+   "note": ""
+  },
+  "GJ_fullBtn_001.png": {
+   "truth": {
+    "1": "icon",
+    "2": "outline",
+    "3": "outline",
+    "4": "body",
+    "7": "icon",
+    "8": "body",
+    "9": "body",
+    "10": "icon",
+    "12": "icon",
+    "13": "icon",
+    "14": "body",
+    "15": "body",
+    "18": "icon",
+    "19": "icon",
+    "21": "icon",
+    "22": "icon",
+    "23": "body",
+    "24": "body",
+    "25": "icon",
+    "27": "icon"
+   },
+   "baseline": {
+    "1": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "2": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "3": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "4": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "18": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "19": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "21": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "22": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "23": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "24": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "25": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "27": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 1296,
+    "2": 1717,
+    "3": 1355,
+    "4": 5277,
+    "7": 1513,
+    "8": 2323,
+    "9": 1862,
+    "10": 1337,
+    "12": 1726,
+    "13": 1509,
+    "14": 5228,
+    "15": 4532,
+    "18": 1583,
+    "19": 1197,
+    "21": 964,
+    "22": 1197,
+    "23": 2368,
+    "24": 2108,
+    "25": 1647,
+    "27": 1637
+   },
+   "note": ""
+  },
+  "GJ_freeChestBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "icon",
+    "3": [
+     "body",
+     "icon"
+    ],
+    "4": [
+     "body",
+     "icon"
+    ],
+    "5": "body",
+    "6": "body",
+    "7": [
+     "body",
+     "icon"
+    ],
+    "8": "icon",
+    "9": "icon",
+    "10": "icon",
+    "11": [
+     "body",
+     "icon"
+    ],
+    "12": [
+     "body",
+     "icon"
+    ],
+    "13": "icon",
+    "14": [
+     "body",
+     "icon"
+    ],
+    "15": [
+     "body",
+     "icon"
+    ],
+    "16": [
+     "body",
+     "icon"
+    ]
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "16": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3343,
+    "2": 1232,
+    "3": 299,
+    "4": 259,
+    "5": 2746,
+    "6": 2866,
+    "7": 150,
+    "8": 1241,
+    "9": 1147,
+    "10": 1071,
+    "11": 248,
+    "12": 251,
+    "13": 1073,
+    "14": 158,
+    "15": 201,
+    "16": 48
+   },
+   "note": "letters FREE = icon (extractor needs an override), orange frame trim either"
+  },
+  "GJ_editBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 10504,
+    "2": 33051,
+    "3": 1791,
+    "4": 8202
+   },
+   "note": "thick outer line; tools are icon"
+  },
+  "GJ_shareBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 10504,
+    "2": 28891,
+    "3": 8398,
+    "4": 5999
+   },
+   "note": ""
+  },
+  "GJ_pathsBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon",
+    "7": "icon",
+    "8": "icon",
+    "9": "icon",
+    "10": "icon",
+    "11": "icon",
+    "12": "icon",
+    "13": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 8344,
+    "2": 69378,
+    "3": 13809,
+    "4": 5254,
+    "5": 4138,
+    "6": 3655,
+    "7": 985,
+    "8": 1017,
+    "9": 1664,
+    "10": 1205,
+    "11": 1352,
+    "12": 1006,
+    "13": 1514
+   },
+   "note": "green gem next to the body is an icon, not a body piece"
+  },
+  "GJ_checkOn_001.png": {
+   "truth": {
+    "1": "icon",
+    "2": "outline",
+    "3": "outline",
+    "4": "body",
+    "5": "body",
+    "6": "outline",
+    "7": "body"
+   },
+   "baseline": {
+    "1": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "2": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "3": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 5624,
+    "2": 217,
+    "3": 494,
+    "4": 292,
+    "5": 3246,
+    "6": 360,
+    "7": 1345
+   },
+   "note": "check mark pokes out of the box: icon"
+  },
+  "GJ_checkOff_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ]
+   },
+   "px": {
+    "1": 1424,
+    "2": 11311
+   },
+   "note": ""
+  },
+  "GJ_rewardBtn_001.png": {
+   "truth": {
+    "1": "icon",
+    "2": "body",
+    "3": "body",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon",
+    "7": "icon",
+    "8": "icon",
+    "10": [
+     "body",
+     "icon"
+    ],
+    "11": "body"
+   },
+   "baseline": {
+    "1": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 7657,
+    "2": 6069,
+    "3": 1531,
+    "4": 1447,
+    "5": 891,
+    "6": 1059,
+    "7": 724,
+    "8": 1354,
+    "10": 57,
+    "11": 2458
+   },
+   "note": "region 10 is the shaded body seen inside the letter C: body or icon"
+  },
+  "GJ_rateDiffBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 4869,
+    "3": 8513,
+    "4": 56,
+    "5": 59
+   },
+   "note": ""
+  },
+  "GJ_starBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 11484,
+    "3": 3674
+   },
+   "note": ""
+  },
+  "GJ_likeBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 8994,
+    "3": 5966
+   },
+   "note": ""
+  },
+  "GJ_deleteBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 10779,
+    "3": 3739
+   },
+   "note": ""
+  },
+  "GJ_copyBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3748,
+    "2": 12581,
+    "3": 828,
+    "4": 690,
+    "5": 627,
+    "6": 512
+   },
+   "note": ""
+  },
+  "GJ_deSelBtn2_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon",
+    "7": "icon",
+    "8": "icon",
+    "9": "icon",
+    "10": "icon",
+    "11": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "9": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 1618,
+    "2": 8217,
+    "3": 282,
+    "4": 199,
+    "5": 337,
+    "6": 158,
+    "7": 254,
+    "8": 196,
+    "9": 55,
+    "10": 207,
+    "11": 160
+   },
+   "note": ""
+  },
+  "GJ_zoomInBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "body",
+    "4": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 2534,
+    "2": 7965,
+    "3": 1266,
+    "4": 679
+   },
+   "note": "green inside the lens ring is the body showing through (corrected after the Gemini Flash 3.8 run, 2026-10-21)"
+  },
+  "gj_iconBtn_on_001.png": {
+   "truth": {
+    "1": "body",
+    "2": "icon",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 4698,
+    "2": 2304,
+    "3": 841
+   },
+   "note": ""
+  },
+  "gj_robotBtn_off_001.png": {
+   "truth": {
+    "1": "body",
+    "2": "icon",
+    "3": "icon",
+    "4": "icon",
+    "5": "icon",
+    "6": "icon"
+   },
+   "baseline": {
+    "1": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "2": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 5642,
+    "2": 969,
+    "3": 394,
+    "4": 52,
+    "5": 283,
+    "6": 654
+   },
+   "note": ""
+  },
+  "GJ_levelLeaderboardBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3746,
+    "2": 9741,
+    "3": 5361
+   },
+   "note": ""
+  },
+  "GJ_playBtn2_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 10520,
+    "2": 34562,
+    "3": 11693
+   },
+   "note": ""
+  },
+  "GJ_dailyRewardBtn_001.png": {
+   "truth": {
+    "1": "outline",
+    "2": "body",
+    "3": [
+     "body",
+     "icon"
+    ],
+    "4": [
+     "body",
+     "icon"
+    ],
+    "5": [
+     "body",
+     "icon"
+    ],
+    "6": [
+     "body",
+     "icon"
+    ],
+    "7": [
+     "body",
+     "icon"
+    ],
+    "8": "body",
+    "10": [
+     "body",
+     "icon"
+    ],
+    "11": [
+     "body",
+     "icon"
+    ],
+    "12": "icon",
+    "13": "icon",
+    "14": "icon",
+    "15": "icon",
+    "16": "icon"
+   },
+   "baseline": {
+    "1": [
+     "outline",
+     "baseline: light region touching the outside"
+    ],
+    "2": [
+     "body",
+     "baseline: largest region touching the edge"
+    ],
+    "3": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "4": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "5": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "6": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "7": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "8": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "10": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "11": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "12": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "13": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "14": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "15": [
+     "icon",
+     "baseline: everything else is icon"
+    ],
+    "16": [
+     "icon",
+     "baseline: everything else is icon"
+    ]
+   },
+   "px": {
+    "1": 3744,
+    "2": 4268,
+    "3": 198,
+    "4": 227,
+    "5": 292,
+    "6": 245,
+    "7": 49,
+    "8": 2572,
+    "10": 160,
+    "11": 546,
+    "12": 1255,
+    "13": 885,
+    "14": 602,
+    "15": 734,
+    "16": 766
+   },
+   "note": "chest = body, letters DAILY = icon, orange frame trim either; region 1 is the rim merged with the blue beads"
+  }
+ }
+}

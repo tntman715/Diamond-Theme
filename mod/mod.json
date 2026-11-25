@@ -1,0 +1,266 @@
+{
+	"geode": "6.0.0",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "tntman.diamond-theme",
+	"name": "Diamond Theme",
+	"version": "v0.18.5",
+	"developer": "tntman",
+	"description": "Customizable, animated UI themes for Diamond Pack / Diamond Vortex",
+	"resources": {
+		"files": [
+			"resources/*.json",
+			"resources/*.png"
+		]
+	},
+	"settings": {
+		"enabled": {
+			"type": "bool",
+			"name": "Enabled",
+			"description": "Recolor Diamond Pack / Diamond Vortex buttons with the theme shader. The active pack is detected automatically (UHD textures).",
+			"default": true
+		},
+		"geode-buttons": {
+			"type": "bool",
+			"name": "Theme Geode Buttons",
+			"description": "Also restyle Geode's own buttons (main menu Geode button, round/tab buttons in the mods list) in the same style. No extra textures needed.",
+			"default": true
+		},
+		"preset": {
+			"type": "string",
+			"name": "Preset",
+			"description": "original: same as the pack. original-flow: original colors in motion. vortex: Diamond Vortex style colors. glass: white liquid glass. frosted: classic frosted glass (translucent + strong blur, no liquid effects, like iOS 7-18 or Windows acrylic). invert: see-through buttons whose icons and text invert the background. file: load the Theme File below (changes apply as soon as you save it). custom: use the settings below.",
+			"default": "original",
+			"one-of": ["original", "original-flow", "vortex", "neon", "sunset", "mono", "glass", "frosted", "invert", "file", "custom"]
+		},
+		"theme-file": {
+			"type": "file",
+			"name": "Theme File",
+			"description": "Theme JSON used when Preset = file. Examples are in the themes folder of this mod's config folder (my-theme.json, vortex.json, ...). The preview tool's Theme JSON can be pasted into a file here.",
+			"default": "{mod_config_dir}/themes/my-theme.json",
+			"control": {
+				"dialog": "open",
+				"filters": [{ "files": ["*.json"], "description": "Theme files" }]
+			}
+		},
+		"advanced": {
+			"type": "custom:advanced",
+			"name": "Advanced Settings",
+			"description": "Opens the advanced settings window: per-part and per-color-range adjustments, surface and glass details, inverted parts, active button colors and list colors. Reset All (and this item's reset arrow) also resets the advanced settings."
+		},
+		"theme-actions": {
+			"type": "button",
+			"name": "Theme Files",
+			"description": "Save: writes the current look (whatever preset or custom settings are active) to a new file in the themes folder and selects it as the Theme File. Set Preset = file to use it. Folder: opens the themes folder.",
+			"buttons": { "save": "Save", "open-folder": "Folder" }
+		},
+		"custom-title": {
+			"type": "title",
+			"name": "Custom (preset = custom)"
+		},
+		"outline-source": {
+			"type": "string",
+			"name": "Outline Color Source",
+			"default": "theme",
+			"one-of": ["theme", "original"]
+		},
+		"gradient-mode": {
+			"type": "string",
+			"name": "Gradient Mode",
+			"description": "rainbow: hue sweep (hue/saturation/brightness). colors: Color 1-3. solid: Color 1 only.",
+			"default": "rainbow",
+			"one-of": ["rainbow", "colors", "solid"]
+		},
+		"hue-start": {
+			"type": "float", "name": "Hue Start", "default": 120, "min": 0, "max": 360,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"hue-range": {
+			"type": "float", "name": "Hue Range", "default": 240, "min": -360, "max": 360,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"saturation": {
+			"type": "float", "name": "Saturation", "default": 0.4, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"brightness": {
+			"type": "float", "name": "Brightness", "default": 1, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"color-1": { "type": "color", "name": "Color 1", "default": "#99ffc7" },
+		"color-2": { "type": "color", "name": "Color 2", "default": "#c399ff" },
+		"color-3": { "type": "color", "name": "Color 3", "default": "#ff99b3" },
+		"use-color-3": { "type": "bool", "name": "Use Color 3", "default": true },
+		"angle": {
+			"type": "float", "name": "Gradient Angle", "default": 0, "min": 0, "max": 360,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"flow": {
+			"type": "float", "name": "Flow Speed",
+			"description": "Shifts the colors along the gradient (turns per second).",
+			"default": 0, "min": -1, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"flow-scope": {
+			"type": "string", "name": "Flow On Original-Art Packs",
+			"description": "For packs whose buttons keep their original art (vanilla GD and similar packs): whole-button = the color flow (original-flow preset, Flow Speed) shifts the whole button picture; icons = only the icons flow and the button body keeps its colors (white and gray icons cannot change hue, so they stay as they are). Diamond-style packs are not affected.",
+			"default": "whole-button",
+			"one-of": ["whole-button", "icons"]
+		},
+		"spin": {
+			"type": "float", "name": "Spin Speed",
+			"description": "Rotates the gradient direction around each button (turns per second).",
+			"default": 0, "min": -1, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"fill-mode": {
+			"type": "string", "name": "Fill",
+			"description": "Button body color. original: the pack's. custom: Fill Color. gradient: Fill Color to Fill Color 2 along Fill Angle. theme: the outline gradient, darkened (Fill Theme Strength).",
+			"default": "original", "one-of": ["original", "custom", "gradient", "theme"]
+		},
+		"fill-color": { "type": "color", "name": "Fill Color", "default": "#141414" },
+		"fill-color-2": { "type": "color", "name": "Fill Color 2", "default": "#302840" },
+		"fill-angle": {
+			"type": "float", "name": "Fill Angle", "description": "Direction of the fill gradient (90 = top to bottom, 0 = left to right).",
+			"default": 90, "min": 0, "max": 360,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"fill-theme-strength": {
+			"type": "float", "name": "Fill Theme Strength", "description": "Brightness of the outline gradient used as the fill (fill = theme).",
+			"default": 0.25, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"accent-color": {
+			"type": "color", "name": "White Parts Color",
+			"description": "Color for parts that are white in the original (white outlines/icons).",
+			"default": "#ffffff"
+		},
+		"glyph-mode": {
+			"type": "string", "name": "Icon Color",
+			"description": "auto: like the original style. accent: White Parts Color. original: original colors.",
+			"default": "auto",
+			"one-of": ["auto", "accent", "gradient", "custom", "original"]
+		},
+		"glyph-color": { "type": "color", "name": "Icon Custom Color", "default": "#ffffff" },
+		"white-outline": {
+			"type": "string", "name": "White Outlines", "default": "accent", "one-of": ["accent", "gradient"]
+		},
+		"font-big": {
+			"type": "string", "name": "bigFont Color",
+			"description": "original: keep. gradient: same gradient as the outline. custom: Font Color. Labels that the game tints (green, gray...) are left alone.",
+			"default": "original",
+			"one-of": ["original", "gradient", "custom"]
+		},
+		"font-gold": {
+			"type": "string", "name": "goldFont Color", "default": "original",
+			"one-of": ["original", "gradient", "custom"]
+		},
+		"font-color": { "type": "color", "name": "Font Color", "default": "#ffffff" },
+		"adjust-title": {
+			"type": "title",
+			"name": "Color Adjust (per-part and per-color adjustments: Advanced Settings)"
+		},
+		"adjust-mode": {
+			"type": "string", "name": "All Hue Mode",
+			"description": "shift: rotate the hue by the Hue value. colorize: set every color to the Hue value (0 red, 60 yellow, 120 green, 180 cyan, -120 blue, -60 magenta), keeping its own saturation and brightness, so white and black stay as they are.",
+			"default": "shift",
+			"one-of": ["shift", "colorize"]
+		},
+		"adjust-hue": {
+			"type": "float", "name": "All Hue", "description": "Hue rotation (shift) or target hue (colorize) for the whole button, including details the theme can't separate (shading, decorations). Use this for packs whose parts can't be split. In degrees; keeps shading and brightness, unlike picking a new color.",
+			"default": 0, "min": -180, "max": 180,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"adjust-saturation": {
+			"type": "float", "name": "All Saturation", "description": "Saturation multiplier for the whole button, including details the theme can't separate (shading, decorations). Use this for packs whose parts can't be split (1 = unchanged, 0 = gray).",
+			"default": 1, "min": 0, "max": 2,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"adjust-brightness": {
+			"type": "float", "name": "All Brightness", "description": "Brightness multiplier for the whole button, including details the theme can't separate (shading, decorations). Use this for packs whose parts can't be split (1 = unchanged).",
+			"default": 1, "min": 0, "max": 2,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"adjust-hue-speed": {
+			"type": "float", "name": "Hue Animation", "description": "Hue animation: the hue of every themed button keeps rotating by this many degrees per second (negative = the other way, 0 = off). Works on every pack, including packs without splits.",
+			"default": 0, "min": -180, "max": 180,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"animation-title": {
+			"type": "title",
+			"name": "Animation (theme files can override)"
+		},
+		"press-style": {
+			"type": "string", "name": "Press Animation",
+			"description": "gd: game default (grow + bounce). squash: shrink, spring back. pop: grow a little + glow, elastic release. none: no scale animation. invert: the whole pressed button flips to inverted colors. jelly: the button squishes like jelly while held and wobbles back when released (with glass on, the glass wobbles too).",
+			"default": "gd",
+			"one-of": ["gd", "squash", "pop", "none", "invert", "jelly"]
+		},
+		"jelly-strength": {
+			"type": "float", "name": "Jelly Strength",
+			"description": "For the jelly press animation: how much the button squishes and wobbles.",
+			"default": 1, "min": 0.2, "max": 2,
+			"control": { "slider": true, "slider-step": 0.05 }
+		},
+		"hover-glow": {
+			"type": "float", "name": "Hover Glow",
+			"description": "How much a themed button lights up while the mouse is over it (0 = off).",
+			"default": 0.35, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"hover-hue": {
+			"type": "float", "name": "Hover Hue", "description": "While the mouse is over a button, its hue smoothly rotates by this many degrees (0 = off).",
+			"default": 0, "min": -180, "max": 180,
+			"control": { "slider": true, "slider-step": 1 }
+		},
+		"idle-effect": {
+			"type": "string", "name": "Idle Effect",
+			"description": "pulse: buttons softly glow in and out. shimmer: a light band sweeps across each button.",
+			"default": "none",
+			"one-of": ["none", "pulse", "shimmer"]
+		},
+		"surface-title": {
+			"type": "title",
+			"name": "Surface (theme files can override)"
+		},
+		"button-opacity": {
+			"type": "float", "name": "Button Opacity", "description": "Opacity of the whole themed button (including its shadow).",
+			"default": 1, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"fill-opacity": {
+			"type": "float", "name": "Fill Opacity", "description": "Opacity of the button body only. Outline and icon stay solid.",
+			"default": 1, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"bevel": {
+			"type": "float", "name": "Emboss", "description": "Bevel lighting along the button edges (light from the top left).",
+			"default": 0, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"glass-title": {
+			"type": "title",
+			"name": "Glass (theme files can override)"
+		},
+		"glass": {
+			"type": "float", "name": "Glass",
+			"description": "Frosted glass: the button body shows the background behind it (0 = off).",
+			"default": 0, "min": 0, "max": 1,
+			"control": { "slider": true, "slider-step": 0.01 }
+		},
+		"debug-title": {
+			"type": "title",
+			"name": "Debug"
+		},
+		"debug-stats": {
+			"type": "bool",
+			"name": "Log Performance Stats",
+			"description": "Every 5 seconds, writes FPS, draw counts and the theme hook cost to the Geode log ([stats] lines). Turn off when not testing.",
+			"default": false
+		}
+	}
+}

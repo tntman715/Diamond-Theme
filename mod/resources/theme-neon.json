@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "Neon",
+  "outline": {
+    "source": "theme",
+    "hsv": { "start": 0, "range": 360, "saturation": 0.85, "value": 1 },
+    "angle": 0, "flow": 0.12, "spin": 0
+  },
+  "fill": "original",
+  "accent": "#ffffff",
+  "glyph": "auto",
+  "whiteOutline": "accent",
+  "fonts": { "bigFont": "gradient", "goldFont": "original" }
+}

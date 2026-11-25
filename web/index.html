@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diamond Theme Pack Tool</title>
+<style>
+  :root {
+    --bg: #0d0e12; --panel: #16181f; --line: #2a2d38; --text: #e7e9ee; --muted: #8b90a0;
+    --accent: #b9a3ff; --accent2: #99ffc7; --warn: #ffcf7a; --bad: #ff8a8a;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text);
+    font: 14px/1.5 system-ui, "Segoe UI", "Malgun Gothic", sans-serif; }
+  header { display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  header h1 { font-size: 17px; margin: 0; font-weight: 600; }
+  header .sub { color: var(--muted); font-size: 13px; flex: 1; min-width: 200px; }
+  #engine { font-size: 12px; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; white-space: nowrap; }
+  #engine.ok { color: var(--accent2); border-color: #2f5a46; }
+  #engine.bad { color: var(--bad); border-color: #5a2f2f; }
+  main { max-width: 980px; margin: 0 auto; padding: 16px; display: grid; gap: 14px; }
+  section { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; }
+  section h2 { font-size: 15px; margin: 0 0 4px; display: flex; gap: 8px; align-items: baseline; }
+  section h2 .n { color: var(--accent); font-variant-numeric: tabular-nums; }
+  .hint { color: var(--muted); font-size: 13px; margin: 4px 0 10px; }
+  .drop { border: 1.5px dashed var(--line); border-radius: 8px; padding: 18px; text-align: center; color: var(--muted); transition: border-color .15s, background .15s; }
+  .drop.over { border-color: var(--accent); background: rgba(185,163,255,.06); color: var(--text); }
+  .drop .btns { margin-top: 10px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap; }
+  button, .btn { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 7px; padding: 7px 13px; cursor: pointer; font: inherit; font-size: 13px; }
+  button:hover:not(:disabled) { border-color: var(--accent); }
+  button.primary { background: var(--accent); color: #15121f; border-color: var(--accent); font-weight: 600; }
+  button.primary:hover:not(:disabled) { filter: brightness(1.08); }
+  button:disabled { opacity: .45; cursor: default; }
+  .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 8px 0; }
+  .row > label:first-child { color: var(--muted); min-width: 110px; }
+  select, input[type=text], input[type=search] { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; font: inherit; font-size: 13px; }
+  select { min-width: 260px; }
+  .status { font-size: 13px; margin-top: 8px; }
+  .status .ok { color: var(--accent2); } .status .warn { color: var(--warn); } .status .bad { color: var(--bad); }
+  .result { margin-top: 12px; }
+  .thumbs { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; margin-top: 10px; }
+  .thumbs figure { margin: 0; background: #000; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .thumbs img { width: 100%; display: block; image-rendering: auto; }
+  .thumbs figcaption { font-size: 11px; color: var(--muted); padding: 4px 6px; background: var(--panel); word-break: break-all; }
+  .checks { display: grid; gap: 10px; margin-top: 10px; }
+  .checks figure { margin: 0; }
+  .checks img { max-width: 100%; border-radius: 6px; border: 1px solid var(--line); background: #0a0a0c; }
+  .checks figcaption { font-size: 12px; color: var(--muted); }
+  #frameList { max-height: 260px; overflow-y: auto; border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 2px 10px; background: var(--bg); }
+  #frameList label { font-size: 12px; display: flex; gap: 6px; align-items: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  #log { background: #08090c; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font: 12px/1.45 ui-monospace, Consolas, monospace; color: #b8bccb; max-height: 220px; overflow-y: auto; white-space: pre-wrap; margin: 0; }
+  details summary { cursor: pointer; color: var(--muted); font-size: 13px; }
+  .steps { margin: 6px 0 0; padding-left: 20px; color: var(--muted); font-size: 13px; }
+  .steps code, .hint code { color: var(--text); }
+  .lang { margin-left: auto; }
+  .hidden { display: none !important; }
+  .busy { position: relative; }
+  .spin { display: inline-block; width: 12px; height: 12px; border: 2px solid var(--muted); border-top-color: transparent; border-radius: 50%; animation: spin .8s linear infinite; vertical-align: -2px; margin-right: 6px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @media (max-width: 600px) { .row > label:first-child { min-width: 0; width: 100%; } select { min-width: 0; width: 100%; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Diamond Theme Pack Tool</h1>
+  <span class="sub" data-i18n="subtitle"></span>
+  <span id="engine" data-i18n="engineLoading"></span>
+  <select id="lang" class="lang" style="min-width:0">
+    <option value="ko">한국어</option>
+    <option value="en">English</option>
+  </select>
+</header>
+
+<main>
+  <section id="secPack">
+    <h2><span class="n">1</span><span data-i18n="packTitle"></span></h2>
+    <p class="hint" data-i18n="packHint"></p>
+    <div class="drop" id="packDrop">
+      <div data-i18n="dropPack"></div>
+      <div class="btns">
+        <button id="packFolderBtn" data-i18n="pickFolder"></button>
+        <button id="packZipBtn" data-i18n="pickZip"></button>
+      </div>
+    </div>
+    <input type="file" id="packFolder" webkitdirectory multiple class="hidden">
+    <input type="file" id="packZip" accept=".zip" class="hidden">
+    <div class="status" id="packStatus"></div>
+    <div id="resBox" class="hidden">
+      <p class="hint" data-i18n="resHint"></p>
+      <button id="resBtn" data-i18n="pickRes"></button>
+      <input type="file" id="resFolder" webkitdirectory multiple class="hidden">
+    </div>
+  </section>
+
+  <section id="secSettings">
+    <h2><span class="n">2</span><span data-i18n="settingsTitle"></span></h2>
+    <div class="row">
+      <label for="profile" data-i18n="profile"></label>
+      <select id="profile">
+        <option value="vanilla" data-i18n="pVanilla"></option>
+        <option value="glossy" data-i18n="pGlossy"></option>
+        <option value="whole" data-i18n="pWhole"></option>
+        <option value="generic" data-i18n="pGeneric"></option>
+        <option value="diamond" data-i18n="pDiamond"></option>
+      </select>
+    </div>
+    <div class="row">
+      <label></label>
+      <label><input type="checkbox" id="wholeFallback"> <span data-i18n="wholeFallback"></span></label>
+    </div>
+    <div class="row">
+      <label for="packName" data-i18n="packName"></label>
+      <input type="text" id="packName" placeholder="My Pack" style="min-width:260px">
+    </div>
+    <details style="margin-top:10px">
+      <summary data-i18n="projectTitle"></summary>
+      <p class="hint" data-i18n="projectHint"></p>
+      <div class="drop" id="projectDrop">
+        <div data-i18n="dropProject"></div>
+        <div class="btns">
+          <button id="projectFolderBtn" data-i18n="pickFolder"></button>
+          <button id="projectFileBtn" data-i18n="pickZipJson"></button>
+          <button id="projectSaveBtn" data-i18n="saveProject"></button>
+          <button id="projectClearBtn" data-i18n="clearProject"></button>
+        </div>
+      </div>
+      <input type="file" id="projectFolder" webkitdirectory multiple class="hidden">
+      <input type="file" id="projectFile" accept=".zip,.json" class="hidden">
+      <div class="status" id="projectStatus"></div>
+    </details>
+  </section>
+
+  <section id="secBuild">
+    <h2><span class="n">3</span><span data-i18n="buildTitle"></span></h2>
+    <p class="hint" data-i18n="buildHint"></p>
+    <button id="buildBtn" class="primary" disabled data-i18n="build"></button>
+    <div class="status" id="buildStatus"></div>
+    <div class="result hidden" id="buildResult">
+      <button id="downloadBtn" class="primary" data-i18n="download"></button>
+      <ol class="steps">
+        <li data-i18n="install1"></li>
+        <li data-i18n="install2"></li>
+      </ol>
+      <div class="thumbs" id="maskThumbs"></div>
+    </div>
+  </section>
+
+  <section id="secHand">
+    <h2><span class="n">4</span><span data-i18n="handTitle"></span></h2>
+    <p class="hint" data-i18n="handHint"></p>
+    <div class="row">
+      <input type="search" id="frameFilter" data-i18n-ph="filter" style="flex:1;min-width:180px">
+      <label><input type="checkbox" id="buttonsOnly" checked> <span data-i18n="buttonsOnly"></span></label>
+      <button id="selAll" data-i18n="selectShown"></button>
+      <button id="selNone" data-i18n="selectNone"></button>
+    </div>
+    <div id="frameList"><span class="hint" data-i18n="needPack"></span></div>
+    <div class="row">
+      <button id="handExportBtn" class="primary" disabled data-i18n="handExport"></button>
+      <span class="status" id="selCount"></span>
+    </div>
+    <ol class="steps">
+      <li data-i18n="hand1"></li>
+      <li data-i18n="hand2"></li>
+      <li data-i18n="hand3"></li>
+    </ol>
+    <div class="drop" id="handDrop" style="margin-top:10px">
+      <div data-i18n="dropHand"></div>
+      <div class="btns">
+        <button id="handFolderBtn" data-i18n="pickFolder"></button>
+        <button id="handZipBtn" data-i18n="pickZip"></button>
+      </div>
+    </div>
+    <input type="file" id="handFolder" webkitdirectory multiple class="hidden">
+    <input type="file" id="handZip" accept=".zip" class="hidden">
+    <div class="status" id="handStatus"></div>
+    <div class="checks" id="handChecks"></div>
+  </section>
+
+  <section>
+    <h2 data-i18n="logTitle"></h2>
+    <p class="hint" data-i18n="privacy"></p>
+    <pre id="log"></pre>
+  </section>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "name": "Glass",
+  "outline": {
+    "source": "theme",
+    "solid": "#ffffff",
+    "angle": 0, "flow": 0, "spin": 0
+  },
+  "fill": "#101010",
+  "accent": "#ffffff",
+  "glyph": "accent",
+  "whiteOutline": "accent",
+  "fonts": { "bigFont": "#ffffff", "goldFont": "#ffffff" },
+  "glass": {
+    "amount": 0.83, "blur": 0.36, "refraction": 0.4, "rim": 0.61, "edge": 27, "dispersion": 1,
+    "scope": "buttons", "listFrames": true
+  },
+  "lists": { "glass": 0.7 }
+}

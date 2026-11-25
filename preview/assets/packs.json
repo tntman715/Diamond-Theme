@@ -1,0 +1,42 @@
+[
+  {
+    "id": "diamond-pack",
+    "name": "Diamond Pack V2.2",
+    "profile": "diamond"
+  },
+  {
+    "id": "diamond-vortex",
+    "name": "Diamond Vortex",
+    "profile": "generic"
+  },
+  {
+    "id": "vanilla-gd",
+    "name": "Vanilla GD",
+    "profile": "vanilla",
+    "match": "vanilla"
+  },
+  {
+    "id": "rainbow",
+    "name": "Rainbow (local test)",
+    "profile": "vanilla",
+    "local": true
+  },
+  {
+    "id": "cobblestone",
+    "name": "Cobblestone (local test)",
+    "profile": "vanilla",
+    "local": true
+  },
+  {
+    "id": "aero-dash",
+    "name": "Aero Dash (local test)",
+    "profile": "glossy",
+    "local": true
+  },
+  {
+    "id": "aero-dash-whole",
+    "name": "Aero Dash whole (local test)",
+    "profile": "whole",
+    "local": true
+  }
+]

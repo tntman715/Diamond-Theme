@@ -1,0 +1,7115 @@
+{
+ "GJ_button_01-uhd": {
+  "GJ_button_01.png": {
+   "themed": true,
+   "gradRatio": 0.118,
+   "fillRatio": 0.86,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_button_02-uhd": {
+  "GJ_button_02.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.882,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_button_03-uhd": {
+  "GJ_button_03.png": {
+   "themed": true,
+   "gradRatio": 0.116,
+   "fillRatio": 0.882,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_button_04-uhd": {
+  "GJ_button_04.png": {
+   "themed": true,
+   "gradRatio": 0.116,
+   "fillRatio": 0.882,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_button_05-uhd": {
+  "GJ_button_05.png": {
+   "themed": true,
+   "gradRatio": 0.116,
+   "fillRatio": 0.882,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_button_06-uhd": {
+  "GJ_button_06.png": {
+   "themed": true,
+   "gradRatio": 0.116,
+   "fillRatio": 0.882,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_GameSheet03-uhd": {
+  "GJLargeLock_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.161,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_BPMOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.262,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_BPMOnBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.302,
+   "fillRatio": 0.677,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 814,
+   "coverage": 0.933
+  },
+  "GJ_achBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.269,
+   "fillRatio": 0.703,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1485,
+   "coverage": 0.901
+  },
+  "GJ_achImage_001.png": {
+   "themed": true,
+   "gradRatio": 0.285,
+   "fillRatio": 0.658,
+   "explained": 0.964,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 514,
+   "coverage": 0.999
+  },
+  "GJ_adChestBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.057,
+   "fillRatio": 0.001,
+   "explained": 0.234,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_adVideoBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.233,
+   "fillRatio": 0.689,
+   "explained": 0.972,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1740,
+   "coverage": 0.882
+  },
+  "GJ_arrow_01_001.png": {
+   "themed": true,
+   "gradRatio": 0.22,
+   "fillRatio": 0.767,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1036,
+   "coverage": 0.855
+  },
+  "GJ_arrow_02_001.png": {
+   "themed": true,
+   "gradRatio": 0.22,
+   "fillRatio": 0.767,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1036,
+   "coverage": 0.855
+  },
+  "GJ_arrow_03_001.png": {
+   "themed": true,
+   "gradRatio": 0.22,
+   "fillRatio": 0.767,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1036,
+   "coverage": 0.855
+  },
+  "GJ_audioOffBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.394,
+   "fillRatio": 0.561,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 890,
+   "coverage": 0.933
+  },
+  "GJ_audioOnBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.266,
+   "fillRatio": 0.708,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 797,
+   "coverage": 0.933
+  },
+  "GJ_autoOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.013,
+   "fillRatio": 0.005,
+   "explained": 0.254,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_autoOnBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.005,
+   "explained": 0.309,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_backBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.225,
+   "fillRatio": 0.755,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1119,
+   "coverage": 0.948
+  },
+  "GJ_bigDiamond_001.png": {
+   "themed": false,
+   "gradRatio": 0.021,
+   "fillRatio": 0.001,
+   "explained": 0.135,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigDiamond_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigDiamond_noShadow_001.png": {
+   "themed": false,
+   "gradRatio": 0.021,
+   "fillRatio": 0.001,
+   "explained": 0.136,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigGoldKey_001.png": {
+   "themed": false,
+   "gradRatio": 0.005,
+   "fillRatio": 0.0,
+   "explained": 0.006,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigGoldKey_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigKey_001.png": {
+   "themed": false,
+   "gradRatio": 0.004,
+   "fillRatio": 0.008,
+   "explained": 0.533,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigKey_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigMoon_001.png": {
+   "themed": false,
+   "gradRatio": 0.02,
+   "fillRatio": 0.001,
+   "explained": 0.025,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigMoon_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigMoon_noShadow_001.png": {
+   "themed": false,
+   "gradRatio": 0.02,
+   "fillRatio": 0.001,
+   "explained": 0.025,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bigStar_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 308,
+   "glow": 1,
+   "coverage": 0.998
+  },
+  "GJ_bigStar_glow_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 608,
+   "glow": 24086,
+   "coverage": 1.0
+  },
+  "GJ_bigStar_noShadow_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 308,
+   "glow": 1,
+   "coverage": 0.998
+  },
+  "GJ_cancelDownloadBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.253,
+   "fillRatio": 0.721,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 849,
+   "coverage": 0.933
+  },
+  "GJ_changeSongBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.281,
+   "fillRatio": 0.699,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 815,
+   "coverage": 0.933
+  },
+  "GJ_chatBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.249,
+   "fillRatio": 0.72,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 990,
+   "coverage": 0.944
+  },
+  "GJ_chatBtn_01_001.png": {
+   "themed": true,
+   "gradRatio": 0.359,
+   "fillRatio": 0.61,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 321,
+   "coverage": 0.984
+  },
+  "GJ_chatBtn_02_001.png": {
+   "themed": true,
+   "gradRatio": 0.256,
+   "fillRatio": 0.71,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 377,
+   "coverage": 0.988
+  },
+  "GJ_checkOff_001.png": {
+   "themed": true,
+   "gradRatio": 0.259,
+   "fillRatio": 0.74,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 34,
+   "coverage": 1.0
+  },
+  "GJ_checkOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.316,
+   "fillRatio": 0.662,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 216,
+   "coverage": 0.989
+  },
+  "GJ_checkpointBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.042,
+   "fillRatio": 0.001,
+   "explained": 0.343,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_chrSel_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_closeBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.257,
+   "fillRatio": 0.707,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1103,
+   "coverage": 0.944
+  },
+  "GJ_coinsIcon2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.796,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_coinsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_coinsIcon_gray_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.12,
+   "explained": 0.915,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_colorBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.835,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_commentSide2_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 1.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  },
+  "GJ_commentSide_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 1.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  },
+  "GJ_commentTop2_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 1.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  },
+  "GJ_commentTop_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 1.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  },
+  "GJ_completesIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.413,
+   "fillRatio": 0.568,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 106,
+   "coverage": 0.994
+  },
+  "GJ_copyBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.215,
+   "fillRatio": 0.773,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 924,
+   "coverage": 0.923
+  },
+  "GJ_copyBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.263,
+   "fillRatio": 0.716,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1003,
+   "coverage": 0.944
+  },
+  "GJ_copyStateBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.258,
+   "fillRatio": 0.717,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 866,
+   "coverage": 0.928
+  },
+  "GJ_createLinesBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.006,
+   "fillRatio": 0.003,
+   "explained": 0.286,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_dailyRewardBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.01,
+   "fillRatio": 0.004,
+   "explained": 0.186,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_deSelBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.246,
+   "fillRatio": 0.726,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 908,
+   "coverage": 0.937
+  },
+  "GJ_deSelBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.292,
+   "fillRatio": 0.686,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1006,
+   "coverage": 0.944
+  },
+  "GJ_deleteAllIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.432,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_deleteBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.256,
+   "fillRatio": 0.709,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1158,
+   "coverage": 0.944
+  },
+  "GJ_deleteIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.444,
+   "fillRatio": 0.515,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 103,
+   "coverage": 0.998
+  },
+  "GJ_deleteServerBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.24,
+   "fillRatio": 0.74,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1055,
+   "coverage": 0.944
+  },
+  "GJ_deleteSongBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.26,
+   "fillRatio": 0.715,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 840,
+   "coverage": 0.933
+  },
+  "GJ_demonIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.245,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_diamondsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.013,
+   "fillRatio": 0.001,
+   "explained": 0.141,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_dislikeBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.236,
+   "fillRatio": 0.742,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 968,
+   "coverage": 0.944
+  },
+  "GJ_dislikesIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 120,
+   "coverage": 0.999
+  },
+  "GJ_downloadBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.306,
+   "fillRatio": 0.672,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 765,
+   "coverage": 0.948
+  },
+  "GJ_downloadsIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 140,
+   "coverage": 0.998
+  },
+  "GJ_duplicateBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.222,
+   "fillRatio": 0.757,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1026,
+   "coverage": 0.944
+  },
+  "GJ_duplicateLockedBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.757,
+   "explained": 0.969,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 866,
+   "coverage": 1.0
+  },
+  "GJ_duplicateObjectBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.257,
+   "fillRatio": 0.724,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 859,
+   "coverage": 0.928
+  },
+  "GJ_duplicateObjectBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.261,
+   "fillRatio": 0.69,
+   "explained": 0.977,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1363,
+   "coverage": 0.958
+  },
+  "GJ_editBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.244,
+   "fillRatio": 0.74,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1861,
+   "coverage": 0.935
+  },
+  "GJ_editHSVBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.378,
+   "fillRatio": 0.609,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 928,
+   "coverage": 0.923
+  },
+  "GJ_editModeBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.357,
+   "fillRatio": 0.621,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1117,
+   "coverage": 0.945
+  },
+  "GJ_editObjBtn3_001.png": {
+   "themed": true,
+   "gradRatio": 0.265,
+   "fillRatio": 0.714,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 925,
+   "coverage": 0.923
+  },
+  "GJ_editObjBtn4_001.png": {
+   "themed": true,
+   "gradRatio": 0.268,
+   "fillRatio": 0.704,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 855,
+   "coverage": 0.928
+  },
+  "GJ_epicCoin2_001.png": {
+   "themed": false,
+   "gradRatio": 0.111,
+   "fillRatio": 0.0,
+   "explained": 0.745,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_epicCoin3_001.png": {
+   "themed": true,
+   "gradRatio": 0.161,
+   "fillRatio": 0.0,
+   "explained": 0.791,
+   "outline": "gradient",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 5363,
+   "glow": 4655,
+   "coverage": 0.935
+  },
+  "GJ_epicCoin_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.0,
+   "explained": 0.066,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_everyplayBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.002,
+   "explained": 0.194,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_extendedIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 33,
+   "coverage": 0.999
+  },
+  "GJ_featuredCoin_001.png": {
+   "themed": false,
+   "gradRatio": 0.028,
+   "fillRatio": 0.0,
+   "explained": 0.036,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_featuredIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.454,
+   "fillRatio": 0.492,
+   "explained": 0.989,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 197,
+   "coverage": 0.996
+  },
+  "GJ_filterIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.002,
+   "explained": 0.638,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_followTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_freeChestBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.015,
+   "fillRatio": 0.001,
+   "explained": 0.183,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_freeStuffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.159,
+   "fillRatio": 0.007,
+   "explained": 0.651,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_garageBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.295,
+   "fillRatio": 0.6,
+   "explained": 0.924,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 5631,
+   "coverage": 0.896
+  },
+  "GJ_getSongInfoBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.301,
+   "fillRatio": 0.651,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 861,
+   "coverage": 0.942
+  },
+  "GJ_gkBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.009,
+   "fillRatio": 0.002,
+   "explained": 0.198,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_goToLayerBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.292,
+   "fillRatio": 0.662,
+   "explained": 0.972,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1218,
+   "coverage": 0.929
+  },
+  "GJ_groupIDBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.251,
+   "fillRatio": 0.727,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 925,
+   "coverage": 0.923
+  },
+  "GJ_groupIDBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.277,
+   "fillRatio": 0.692,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1335,
+   "coverage": 0.946
+  },
+  "GJ_hammerIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.431,
+   "fillRatio": 0.463,
+   "explained": 0.949,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 543,
+   "coverage": 0.912
+  },
+  "GJ_helpBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.267,
+   "fillRatio": 0.716,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 984,
+   "coverage": 0.944
+  },
+  "GJ_helpBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.229,
+   "fillRatio": 0.753,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 797,
+   "coverage": 0.933
+  },
+  "GJ_hsv2Btn_001.png": {
+   "themed": true,
+   "gradRatio": 0.272,
+   "fillRatio": 0.712,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 918,
+   "coverage": 0.923
+  },
+  "GJ_hsvBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.272,
+   "fillRatio": 0.712,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 918,
+   "coverage": 0.923
+  },
+  "GJ_infoBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.232,
+   "fillRatio": 0.744,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1013,
+   "coverage": 0.944
+  },
+  "GJ_infoIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.296,
+   "fillRatio": 0.676,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 74,
+   "coverage": 0.998
+  },
+  "GJ_levelComplete_001.png": {
+   "themed": true,
+   "gradRatio": 0.63,
+   "fillRatio": 0.341,
+   "explained": 0.978,
+   "outline": "none",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 5,
+   "coverage": 0.964
+  },
+  "GJ_levelLeaderboardBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.249,
+   "fillRatio": 0.716,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1204,
+   "coverage": 0.946
+  },
+  "GJ_like2Btn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.706,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 836,
+   "coverage": 0.946
+  },
+  "GJ_like2Btn_001.png": {
+   "themed": true,
+   "gradRatio": 0.252,
+   "fillRatio": 0.706,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1075,
+   "coverage": 0.944
+  },
+  "GJ_likeBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.727,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 835,
+   "coverage": 0.946
+  },
+  "GJ_likeBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.251,
+   "fillRatio": 0.727,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 968,
+   "coverage": 0.944
+  },
+  "GJ_likesIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 190,
+   "coverage": 0.999
+  },
+  "GJ_listAddBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.364,
+   "fillRatio": 0.601,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 311,
+   "coverage": 0.994
+  },
+  "GJ_lockGray_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.739,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_lock_001.png": {
+   "themed": true,
+   "gradRatio": 0.371,
+   "fillRatio": 0.614,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 236,
+   "coverage": 0.988
+  },
+  "GJ_lock_open_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.174,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_longBtn01_001.png": {
+   "themed": true,
+   "gradRatio": 0.127,
+   "fillRatio": 0.871,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 340,
+   "coverage": 0.999
+  },
+  "GJ_longBtn02_001.png": {
+   "themed": true,
+   "gradRatio": 0.128,
+   "fillRatio": 0.854,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 330,
+   "coverage": 0.999
+  },
+  "GJ_longBtn03_001.png": {
+   "themed": true,
+   "gradRatio": 0.114,
+   "fillRatio": 0.884,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 592,
+   "coverage": 0.999
+  },
+  "GJ_longBtn04_001.png": {
+   "themed": true,
+   "gradRatio": 0.123,
+   "fillRatio": 0.86,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 392,
+   "coverage": 0.999
+  },
+  "GJ_longBtn05_001.png": {
+   "themed": true,
+   "gradRatio": 0.393,
+   "fillRatio": 0.524,
+   "explained": 0.96,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 691,
+   "coverage": 0.999
+  },
+  "GJ_longBtn06_001.png": {
+   "themed": true,
+   "gradRatio": 0.241,
+   "fillRatio": 0.738,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 306,
+   "coverage": 1.0
+  },
+  "GJ_longBtn07_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.739,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "GJ_lvlEditWorld_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_lvlEdit_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_menuBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.255,
+   "fillRatio": 0.728,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1481,
+   "coverage": 0.917
+  },
+  "GJ_moonsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.02,
+   "fillRatio": 0.002,
+   "explained": 0.029,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_musicIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.47,
+   "fillRatio": 0.407,
+   "explained": 0.925,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 570,
+   "coverage": 0.999
+  },
+  "GJ_musicLibraryBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.189,
+   "fillRatio": 0.003,
+   "explained": 0.566,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_musicOffBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.433,
+   "fillRatio": 0.521,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 935,
+   "coverage": 0.933
+  },
+  "GJ_musicOnBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.261,
+   "fillRatio": 0.712,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 806,
+   "coverage": 0.933
+  },
+  "GJ_myLevelsTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_myListsTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_myServerBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.251,
+   "fillRatio": 0.729,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1008,
+   "coverage": 0.944
+  },
+  "GJ_nameTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_ncsLibraryBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.292,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_newBest_001.png": {
+   "themed": true,
+   "gradRatio": 0.464,
+   "fillRatio": 0.508,
+   "explained": 0.983,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 8234,
+   "coverage": 0.873
+  },
+  "GJ_newBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.232,
+   "fillRatio": 0.747,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1361,
+   "coverage": 0.954
+  },
+  "GJ_ngBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.48,
+   "fillRatio": 0.422,
+   "explained": 0.969,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1896,
+   "coverage": 0.907
+  },
+  "GJ_normalBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.296,
+   "fillRatio": 0.668,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1777,
+   "coverage": 0.917
+  },
+  "GJ_noteIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.48,
+   "fillRatio": 0.514,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 138,
+   "coverage": 0.998
+  },
+  "GJ_optionsBtn02_001.png": {
+   "themed": true,
+   "gradRatio": 0.329,
+   "fillRatio": 0.636,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 848,
+   "coverage": 0.933
+  },
+  "GJ_optionsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.323,
+   "fillRatio": 0.652,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1219,
+   "coverage": 0.901
+  },
+  "GJ_optionsTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_orderUpBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.226,
+   "fillRatio": 0.757,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1155,
+   "coverage": 0.948
+  },
+  "GJ_paintBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.249,
+   "fillRatio": 0.722,
+   "explained": 0.986,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 927,
+   "coverage": 0.839
+  },
+  "GJ_pasteBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.212,
+   "fillRatio": 0.773,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 914,
+   "coverage": 0.923
+  },
+  "GJ_pasteBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.226,
+   "fillRatio": 0.756,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 998,
+   "coverage": 0.944
+  },
+  "GJ_pasteColorBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.322,
+   "fillRatio": 0.644,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 931,
+   "coverage": 0.937
+  },
+  "GJ_pasteStateBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.299,
+   "fillRatio": 0.652,
+   "explained": 0.973,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1290,
+   "coverage": 0.924
+  },
+  "GJ_pauseBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.237,
+   "fillRatio": 0.738,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 907,
+   "coverage": 0.933
+  },
+  "GJ_pauseBtn_clean_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.295,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_pauseEditorBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.316,
+   "fillRatio": 0.663,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 870,
+   "coverage": 0.933
+  },
+  "GJ_plainBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.153,
+   "fillRatio": 0.836,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1050,
+   "coverage": 0.945
+  },
+  "GJ_playBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.188,
+   "fillRatio": 0.793,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2183,
+   "coverage": 0.936
+  },
+  "GJ_playEditorBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.35,
+   "fillRatio": 0.636,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 801,
+   "coverage": 0.933
+  },
+  "GJ_playMusicBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.358,
+   "fillRatio": 0.606,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 779,
+   "coverage": 0.937
+  },
+  "GJ_plus2Btn_001.png": {
+   "themed": true,
+   "gradRatio": 0.266,
+   "fillRatio": 0.673,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 458,
+   "coverage": 0.886
+  },
+  "GJ_plus3Btn_001.png": {
+   "themed": true,
+   "gradRatio": 0.273,
+   "fillRatio": 0.702,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 539,
+   "coverage": 0.874
+  },
+  "GJ_plusBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.262,
+   "fillRatio": 0.708,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1028,
+   "coverage": 0.944
+  },
+  "GJ_pointsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_practiceBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.208,
+   "fillRatio": 0.78,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1424,
+   "coverage": 0.917
+  },
+  "GJ_practiceComplete_001.png": {
+   "themed": true,
+   "gradRatio": 0.551,
+   "fillRatio": 0.434,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 10605,
+   "coverage": 0.854
+  },
+  "GJ_practiceTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_profileButton_001.png": {
+   "themed": true,
+   "gradRatio": 0.417,
+   "fillRatio": 0.562,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1207,
+   "coverage": 0.91
+  },
+  "GJ_rateDiffBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.155,
+   "fillRatio": 0.492,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 969,
+   "coverage": 0.942
+  },
+  "GJ_rateDiffBtnMod_001.png": {
+   "themed": true,
+   "gradRatio": 0.252,
+   "fillRatio": 0.725,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1071,
+   "coverage": 0.943
+  },
+  "GJ_rateDiffBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.155,
+   "fillRatio": 0.492,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 969,
+   "coverage": 0.942
+  },
+  "GJ_redoBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.252,
+   "fillRatio": 0.713,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 829,
+   "coverage": 0.933
+  },
+  "GJ_removeCheckBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.03,
+   "fillRatio": 0.0,
+   "explained": 0.28,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_replayBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.261,
+   "fillRatio": 0.72,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1485,
+   "coverage": 0.917
+  },
+  "GJ_replayFullBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.333,
+   "fillRatio": 0.64,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1700,
+   "coverage": 0.918
+  },
+  "GJ_reportBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.237,
+   "fillRatio": 0.74,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 979,
+   "coverage": 0.944
+  },
+  "GJ_resetBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.442,
+   "fillRatio": 0.507,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 487,
+   "coverage": 0.919
+  },
+  "GJ_restartCheckBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.287,
+   "fillRatio": 0.603,
+   "explained": 0.925,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2739,
+   "coverage": 0.918
+  },
+  "GJ_rewardBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.361,
+   "fillRatio": 0.601,
+   "explained": 0.983,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1472,
+   "coverage": 0.957
+  },
+  "GJ_rotationControlBtn01_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.714,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 440,
+   "coverage": 0.925
+  },
+  "GJ_rotationControlBtn02_001.png": {
+   "themed": true,
+   "gradRatio": 0.246,
+   "fillRatio": 0.714,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 506,
+   "coverage": 0.923
+  },
+  "GJ_sDownloadIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 8,
+   "coverage": 1.0
+  },
+  "GJ_sFollowedIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.326,
+   "fillRatio": 0.64,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 77,
+   "coverage": 0.995
+  },
+  "GJ_sFriendsIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.999,
+   "fillRatio": 0.0,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 81,
+   "coverage": 0.999
+  },
+  "GJ_sLikeIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.296,
+   "fillRatio": 0.686,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 36,
+   "coverage": 0.997
+  },
+  "GJ_sMagicIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 125,
+   "coverage": 0.995
+  },
+  "GJ_sModIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.065,
+   "fillRatio": 0.0,
+   "explained": 0.065,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sRecentIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 177,
+   "coverage": 0.996
+  },
+  "GJ_sStarsIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 66,
+   "coverage": 0.997
+  },
+  "GJ_sTrendingIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.988,
+   "fillRatio": 0.0,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 58,
+   "coverage": 1.0
+  },
+  "GJ_savedSongsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.43,
+   "fillRatio": 0.525,
+   "explained": 0.977,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2284,
+   "coverage": 0.936
+  },
+  "GJ_secretLock4_small_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.116,
+   "explained": 0.76,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_secretLock_001.png": {
+   "themed": false,
+   "gradRatio": 0.012,
+   "fillRatio": 0.009,
+   "explained": 0.594,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_selectSongBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.234,
+   "fillRatio": 0.748,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 811,
+   "coverage": 0.933
+  },
+  "GJ_selectSongOnBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.277,
+   "fillRatio": 0.702,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 838,
+   "coverage": 0.932
+  },
+  "GJ_select_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sfxIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.018,
+   "explained": 0.69,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_shardsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.258,
+   "fillRatio": 0.684,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 777,
+   "coverage": 0.93
+  },
+  "GJ_shareBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.221,
+   "fillRatio": 0.707,
+   "explained": 0.941,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1784,
+   "coverage": 0.938
+  },
+  "GJ_sideArt_001.png": {
+   "themed": true,
+   "gradRatio": 0.237,
+   "fillRatio": 0.733,
+   "explained": 0.979,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 2058,
+   "coverage": 0.82
+  },
+  "GJ_smallModeIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 83,
+   "coverage": 0.999
+  },
+  "GJ_sortIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.002,
+   "explained": 0.608,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_starBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.739,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 835,
+   "coverage": 0.946
+  },
+  "GJ_starBtnMod_001.png": {
+   "themed": true,
+   "gradRatio": 0.32,
+   "fillRatio": 0.66,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1105,
+   "coverage": 0.944
+  },
+  "GJ_starBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.233,
+   "fillRatio": 0.739,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1036,
+   "coverage": 0.944
+  },
+  "GJ_starsIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 166,
+   "coverage": 0.998
+  },
+  "GJ_starsIcon_gray_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.632,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_statsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.302,
+   "fillRatio": 0.662,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1264,
+   "glow": 3,
+   "coverage": 0.901
+  },
+  "GJ_stopEditorBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.19,
+   "fillRatio": 0.799,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 790,
+   "coverage": 0.933
+  },
+  "GJ_stopMusicBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.19,
+   "fillRatio": 0.799,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 793,
+   "coverage": 0.933
+  },
+  "GJ_stuffTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_tabOff_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.904,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_tabOn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.011,
+   "explained": 0.904,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_table_bottom_001.png": {
+   "themed": true,
+   "gradRatio": 0.239,
+   "fillRatio": 0.753,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 2257,
+   "glow": 34782,
+   "coverage": 0.978
+  },
+  "GJ_table_corner_001.png": {
+   "themed": true,
+   "gradRatio": 0.427,
+   "fillRatio": 0.559,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 70,
+   "coverage": 0.981
+  },
+  "GJ_table_side_001.png": {
+   "themed": true,
+   "gradRatio": 0.354,
+   "fillRatio": 0.646,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1055,
+   "glow": 3711,
+   "coverage": 0.962
+  },
+  "GJ_table_top02_001.png": {
+   "themed": true,
+   "gradRatio": 0.37,
+   "fillRatio": 0.63,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 59,
+   "glow": 39219,
+   "coverage": 0.967
+  },
+  "GJ_table_top_001.png": {
+   "themed": true,
+   "gradRatio": 0.204,
+   "fillRatio": 0.795,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 76,
+   "glow": 39193,
+   "coverage": 0.98
+  },
+  "GJ_timeIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.371,
+   "fillRatio": 0.595,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 178,
+   "coverage": 0.998
+  },
+  "GJ_topBar_001.png": {
+   "themed": true,
+   "gradRatio": 0.201,
+   "fillRatio": 0.789,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 5997,
+   "glow": 19517,
+   "coverage": 0.997
+  },
+  "GJ_trailerBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.006,
+   "fillRatio": 0.002,
+   "explained": 0.159,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_trashBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.424,
+   "fillRatio": 0.54,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 792,
+   "coverage": 0.949
+  },
+  "GJ_twitchTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_twitterTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_undoBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.268,
+   "fillRatio": 0.713,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 878,
+   "coverage": 0.933
+  },
+  "GJ_unlockBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_unlockTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.882,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_updateBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.301,
+   "fillRatio": 0.666,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1028,
+   "coverage": 0.944
+  },
+  "GJ_viewLevelsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.258,
+   "fillRatio": 0.709,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1118,
+   "coverage": 0.945
+  },
+  "GJ_viewListsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.253,
+   "fillRatio": 0.714,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1108,
+   "coverage": 0.945
+  },
+  "GJ_viewProfileTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_yourProfileTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_youtubeTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_zoomInBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.281,
+   "fillRatio": 0.69,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 825,
+   "coverage": 0.933
+  },
+  "GJ_zoomOutBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.267,
+   "fillRatio": 0.701,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 934,
+   "coverage": 0.936
+  },
+  "PBtn_Arrow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "PBtn_Jump_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "PBtn_Move_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "accountBtn_blocked_001.png": {
+   "themed": true,
+   "gradRatio": 0.335,
+   "fillRatio": 0.615,
+   "explained": 0.972,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1679,
+   "coverage": 0.954
+  },
+  "accountBtn_friends_001.png": {
+   "themed": true,
+   "gradRatio": 0.437,
+   "fillRatio": 0.534,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1411,
+   "coverage": 0.952
+  },
+  "accountBtn_messages_001.png": {
+   "themed": true,
+   "gradRatio": 0.256,
+   "fillRatio": 0.713,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1431,
+   "coverage": 0.952
+  },
+  "accountBtn_messagessent_001.png": {
+   "themed": true,
+   "gradRatio": 0.213,
+   "fillRatio": 0.743,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1457,
+   "coverage": 0.954
+  },
+  "accountBtn_myLevels_001.png": {
+   "themed": true,
+   "gradRatio": 0.199,
+   "fillRatio": 0.77,
+   "explained": 0.982,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1413,
+   "coverage": 0.952
+  },
+  "accountBtn_myLists_001.png": {
+   "themed": true,
+   "gradRatio": 0.234,
+   "fillRatio": 0.737,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 801,
+   "coverage": 0.977
+  },
+  "accountBtn_pendingRequest_001.png": {
+   "themed": true,
+   "gradRatio": 0.366,
+   "fillRatio": 0.606,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1098,
+   "coverage": 0.954
+  },
+  "accountBtn_pending_001.png": {
+   "themed": true,
+   "gradRatio": 0.374,
+   "fillRatio": 0.59,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1388,
+   "coverage": 0.954
+  },
+  "accountBtn_removeFriend_001.png": {
+   "themed": true,
+   "gradRatio": 0.372,
+   "fillRatio": 0.599,
+   "explained": 0.985,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1335,
+   "coverage": 0.954
+  },
+  "accountBtn_requests_001.png": {
+   "themed": true,
+   "gradRatio": 0.42,
+   "fillRatio": 0.553,
+   "explained": 0.983,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1407,
+   "coverage": 0.952
+  },
+  "accountBtn_settings_001.png": {
+   "themed": true,
+   "gradRatio": 0.309,
+   "fillRatio": 0.651,
+   "explained": 0.983,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1400,
+   "coverage": 0.954
+  },
+  "accountBtn_social_001.png": {
+   "themed": true,
+   "gradRatio": 0.264,
+   "fillRatio": 0.639,
+   "explained": 0.949,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1347,
+   "coverage": 0.922
+  },
+  "achievementGlow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "adRope_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.082,
+   "explained": 0.112,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "backArrowPlain_01_001.png": {
+   "themed": true,
+   "gradRatio": 0.228,
+   "fillRatio": 0.75,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 704,
+   "coverage": 0.899
+  },
+  "bonusShard2Small_001.png": {
+   "themed": false,
+   "gradRatio": 0.072,
+   "fillRatio": 0.0,
+   "explained": 0.193,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "bonusShardLabel_001.png": {
+   "themed": true,
+   "gradRatio": 0.389,
+   "fillRatio": 0.509,
+   "explained": 0.943,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1420,
+   "coverage": 1.0
+  },
+  "bonusShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.077,
+   "fillRatio": 0.01,
+   "explained": 0.167,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "btn_chatHistory_001.png": {
+   "themed": true,
+   "gradRatio": 0.252,
+   "fillRatio": 0.694,
+   "explained": 0.985,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 740,
+   "coverage": 0.918
+  },
+  "chestIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "chompo_med_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.676,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "chompo_small_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.696,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "collaborationIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.385,
+   "fillRatio": 0.552,
+   "explained": 0.973,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 83,
+   "coverage": 0.994
+  },
+  "communityCreditsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.241,
+   "fillRatio": 0.725,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 939,
+   "coverage": 0.904
+  },
+  "communityIcon_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "communityIcon_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "communityIcon_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_A_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.47,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_B_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.529,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_Back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.829,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_DPad_Down_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.748,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_DPad_Left_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.748,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_DPad_None_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.015,
+   "explained": 0.75,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_DPad_Right_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.748,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_DPad_Up_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.748,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_LThumb_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.796,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_RThumb_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.795,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_Start_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.829,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_X_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.448,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_Y_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.461,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "creators_tab_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.204,
+   "fillRatio": 0.778,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 660,
+   "coverage": 0.999
+  },
+  "creators_tab_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.204,
+   "fillRatio": 0.775,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 696,
+   "coverage": 0.996
+  },
+  "currencyDiamondIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.001,
+   "explained": 0.055,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "currencyOrbIcon_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 106,
+   "coverage": 0.999
+  },
+  "currencyOrb_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "dailyLevelCorner_001.png": {
+   "themed": true,
+   "gradRatio": 0.366,
+   "fillRatio": 0.509,
+   "explained": 0.901,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1732,
+   "coverage": 0.816
+  },
+  "dailyLevelLabel_001.png": {
+   "themed": true,
+   "gradRatio": 0.517,
+   "fillRatio": 0.469,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4975,
+   "coverage": 0.969
+  },
+  "deleteFilter_custom_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.368,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deleteFilter_details_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.011,
+   "explained": 0.49,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deleteFilter_none_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.361,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deleteFilter_static_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.426,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "developedBy_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diamond_small01_001.png": {
+   "themed": false,
+   "gradRatio": 0.017,
+   "fillRatio": 0.0,
+   "explained": 0.057,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_00_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.231,
+   "explained": 0.964,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_01_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.635,
+   "fillRatio": 0.127,
+   "explained": 0.781,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_02_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.629,
+   "fillRatio": 0.259,
+   "explained": 0.915,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_03_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.006,
+   "fillRatio": 0.163,
+   "explained": 0.188,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_04_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.019,
+   "fillRatio": 0.213,
+   "explained": 0.251,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_05_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.476,
+   "fillRatio": 0.163,
+   "explained": 0.683,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_06_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.244,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_07_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.003,
+   "explained": 0.059,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_08_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.086,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_09_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.179,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_10_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.01,
+   "explained": 0.248,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "diffIcon_auto_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.101,
+   "fillRatio": 0.0,
+   "explained": 0.105,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficultySelected_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_00_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.195,
+   "explained": 0.911,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_01_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.533,
+   "fillRatio": 0.121,
+   "explained": 0.76,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_02_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.497,
+   "fillRatio": 0.208,
+   "explained": 0.855,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_03_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.18,
+   "explained": 0.283,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_04_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.002,
+   "fillRatio": 0.203,
+   "explained": 0.341,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_05_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.406,
+   "fillRatio": 0.154,
+   "explained": 0.703,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_06_btn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.034,
+   "explained": 0.382,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_06_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.047,
+   "explained": 0.347,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_07_btn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.039,
+   "explained": 0.249,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_07_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.025,
+   "explained": 0.184,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_08_btn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.038,
+   "explained": 0.288,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_08_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.029,
+   "explained": 0.204,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_09_btn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.04,
+   "explained": 0.334,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_09_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.039,
+   "explained": 0.282,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_10_btn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.044,
+   "explained": 0.382,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_10_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.03,
+   "explained": 0.322,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "difficulty_auto_btn_001.png": {
+   "themed": false,
+   "gradRatio": 0.086,
+   "fillRatio": 0.017,
+   "explained": 0.2,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_addCBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.789,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.485,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn02_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.482,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn03_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.455,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn03b_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.459,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn04_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.623,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_areaModeBtn05_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.541,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_buildBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.957,
+   "fillRatio": 0.0,
+   "explained": 0.987,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1593,
+   "coverage": 0.687
+  },
+  "edit_ccwBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.012,
+   "explained": 0.572,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_cwBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.571,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_delBtnSmall_001.png": {
+   "themed": true,
+   "gradRatio": 0.513,
+   "fillRatio": 0.41,
+   "explained": 0.962,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 98,
+   "coverage": 0.992
+  },
+  "edit_delBtn_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 36,
+   "coverage": 1.0
+  },
+  "edit_delCBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.759,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_deleteBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.898,
+   "fillRatio": 0.0,
+   "explained": 0.957,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1710,
+   "coverage": 0.672
+  },
+  "edit_deselectBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.743,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_downBtn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.726,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_downBtn3_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.696,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_downBtn5_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.699,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_downBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.704,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_editBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.938,
+   "fillRatio": 0.0,
+   "explained": 0.953,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1554,
+   "coverage": 0.681
+  },
+  "edit_enableRotateBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.643,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_findBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_flipXBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.686,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_flipYBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.685,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_freeMoveBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.703,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_freeRotateBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.655,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_leftBtn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.727,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_leftBtn3_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.694,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_leftBtn5_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.699,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_leftBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.704,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rightBtn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.728,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rightBtn3_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.694,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rightBtn5_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.7,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rightBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.704,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rotate45lBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.662,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rotate45rBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.66,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_rotateSnapBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.66,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_snapBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.009,
+   "explained": 0.691,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_swipeBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.009,
+   "explained": 0.716,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_upBtn2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.723,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_upBtn3_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.7,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_upBtn5_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.698,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_upBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.704,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_vLine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_viewBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.921,
+   "fillRatio": 0.0,
+   "explained": 0.952,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1031,
+   "coverage": 0.696
+  },
+  "eventLevelLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.019,
+   "fillRatio": 0.001,
+   "explained": 0.258,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "exMark_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.82,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.032,
+   "fillRatio": 0.002,
+   "explained": 0.214,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.186,
+   "fillRatio": 0.004,
+   "explained": 0.39,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_04_001.png": {
+   "themed": false,
+   "gradRatio": 0.017,
+   "fillRatio": 0.003,
+   "explained": 0.252,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_05_001.png": {
+   "themed": false,
+   "gradRatio": 0.04,
+   "fillRatio": 0.004,
+   "explained": 0.234,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_06_001.png": {
+   "themed": false,
+   "gradRatio": 0.094,
+   "fillRatio": 0.001,
+   "explained": 0.258,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_07_001.png": {
+   "themed": false,
+   "gradRatio": 0.008,
+   "fillRatio": 0.003,
+   "explained": 0.194,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_08_001.png": {
+   "themed": false,
+   "gradRatio": 0.175,
+   "fillRatio": 0.001,
+   "explained": 0.461,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_09_001.png": {
+   "themed": false,
+   "gradRatio": 0.107,
+   "fillRatio": 0.004,
+   "explained": 0.499,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_10_001.png": {
+   "themed": false,
+   "gradRatio": 0.072,
+   "fillRatio": 0.0,
+   "explained": 0.45,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_11_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.82,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_12_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.004,
+   "explained": 0.181,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_13_001.png": {
+   "themed": false,
+   "gradRatio": 0.166,
+   "fillRatio": 0.003,
+   "explained": 0.384,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_14_001.png": {
+   "themed": false,
+   "gradRatio": 0.08,
+   "fillRatio": 0.003,
+   "explained": 0.375,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_15_001.png": {
+   "themed": false,
+   "gradRatio": 0.057,
+   "fillRatio": 0.003,
+   "explained": 0.443,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_16_001.png": {
+   "themed": false,
+   "gradRatio": 0.064,
+   "fillRatio": 0.002,
+   "explained": 0.295,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_17_001.png": {
+   "themed": false,
+   "gradRatio": 0.03,
+   "fillRatio": 0.002,
+   "explained": 0.323,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_18_001.png": {
+   "themed": false,
+   "gradRatio": 0.04,
+   "fillRatio": 0.005,
+   "explained": 0.432,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_19_001.png": {
+   "themed": false,
+   "gradRatio": 0.018,
+   "fillRatio": 0.004,
+   "explained": 0.299,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "explosionIcon_20_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.055,
+   "explained": 0.389,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "featuredLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.018,
+   "fillRatio": 0.0,
+   "explained": 0.25,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "fireShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.066,
+   "fillRatio": 0.002,
+   "explained": 0.202,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "fireShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.105,
+   "fillRatio": 0.0,
+   "explained": 0.108,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "fireShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.085,
+   "fillRatio": 0.005,
+   "explained": 0.229,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "folderIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.999,
+   "fillRatio": 0.0,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 327,
+   "coverage": 1.0
+  },
+  "friends_tab_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.226,
+   "fillRatio": 0.762,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 122,
+   "coverage": 0.999
+  },
+  "friends_tab_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.226,
+   "fillRatio": 0.762,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 117,
+   "coverage": 0.999
+  },
+  "garageRope_001.png": {
+   "themed": true,
+   "gradRatio": 0.225,
+   "fillRatio": 0.737,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 732,
+   "coverage": 0.87
+  },
+  "gauntletCorner_001.png": {
+   "themed": true,
+   "gradRatio": 0.258,
+   "fillRatio": 0.718,
+   "explained": 0.981,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 2005,
+   "coverage": 0.822
+  },
+  "gjItem_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.018,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.002,
+   "explained": 0.016,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.004,
+   "fillRatio": 0.001,
+   "explained": 0.018,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_04_001.png": {
+   "themed": false,
+   "gradRatio": 0.022,
+   "fillRatio": 0.0,
+   "explained": 0.029,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_05_001.png": {
+   "themed": false,
+   "gradRatio": 0.011,
+   "fillRatio": 0.001,
+   "explained": 0.026,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_16_001.png": {
+   "themed": false,
+   "gradRatio": 0.05,
+   "fillRatio": 0.074,
+   "explained": 0.516,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_17_001.png": {
+   "themed": false,
+   "gradRatio": 0.03,
+   "fillRatio": 0.011,
+   "explained": 0.399,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_18_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.734,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_19_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.018,
+   "explained": 0.76,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjItem_20_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.753,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_ballBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.499,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_ballBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.453,
+   "fillRatio": 0.499,
+   "explained": 0.979,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 398,
+   "coverage": 0.997
+  },
+  "gj_birdBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.541,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_birdBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.418,
+   "fillRatio": 0.541,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 154,
+   "coverage": 0.997
+  },
+  "gj_dartBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.603,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_dartBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.375,
+   "fillRatio": 0.603,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 143,
+   "coverage": 0.997
+  },
+  "gj_discordIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.386,
+   "fillRatio": 0.581,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 722,
+   "coverage": 0.94
+  },
+  "gj_explosionBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.619,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_explosionBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.348,
+   "fillRatio": 0.619,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 143,
+   "coverage": 0.997
+  },
+  "gj_fbIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.271,
+   "fillRatio": 0.712,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 833,
+   "coverage": 0.931
+  },
+  "gj_findBtnOff_001.png": {
+   "themed": true,
+   "gradRatio": 0.242,
+   "fillRatio": 0.7,
+   "explained": 0.968,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1391,
+   "coverage": 0.923
+  },
+  "gj_findBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.209,
+   "fillRatio": 0.727,
+   "explained": 0.981,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1002,
+   "coverage": 0.933
+  },
+  "gj_folderBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.999,
+   "fillRatio": 0.0,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 186,
+   "coverage": 1.0
+  },
+  "gj_globalRankTxt_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_heartOff_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.733,
+   "explained": 0.999,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 508,
+   "coverage": 0.908
+  },
+  "gj_heartOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.265,
+   "fillRatio": 0.686,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 649,
+   "coverage": 0.908
+  },
+  "gj_iconBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.655,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_iconBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.315,
+   "fillRatio": 0.655,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 692,
+   "glow": 333,
+   "coverage": 1.0
+  },
+  "gj_instaIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.257,
+   "fillRatio": 0.653,
+   "explained": 0.952,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1185,
+   "coverage": 0.934
+  },
+  "gj_jetpackBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.591,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 10,
+   "coverage": 0.999
+  },
+  "gj_jetpackBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.367,
+   "fillRatio": 0.591,
+   "explained": 0.992,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 262,
+   "coverage": 0.997
+  },
+  "gj_linkBtnOff_001.png": {
+   "themed": true,
+   "gradRatio": 0.341,
+   "fillRatio": 0.601,
+   "explained": 0.987,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 729,
+   "coverage": 0.924
+  },
+  "gj_linkBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.359,
+   "fillRatio": 0.621,
+   "explained": 0.983,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 599,
+   "coverage": 0.931
+  },
+  "gj_linkDisableBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.054,
+   "explained": 0.55,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_linkEnableBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.08,
+   "explained": 0.851,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_navDotBtn_off_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.752,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_navDotBtn_on_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_rdIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.345,
+   "fillRatio": 0.633,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 794,
+   "coverage": 0.936
+  },
+  "gj_robotBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.557,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_robotBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.417,
+   "fillRatio": 0.557,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 199,
+   "coverage": 0.997
+  },
+  "gj_shipBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.595,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_shipBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.375,
+   "fillRatio": 0.595,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 181,
+   "coverage": 0.997
+  },
+  "gj_songIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.716,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_spiderBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.549,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_spiderBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.402,
+   "fillRatio": 0.549,
+   "explained": 0.989,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 353,
+   "coverage": 0.997
+  },
+  "gj_streakBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.628,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "coverage": 1.0
+  },
+  "gj_streakBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.333,
+   "fillRatio": 0.628,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 195,
+   "coverage": 0.997
+  },
+  "gj_swingBtn_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.582,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 10,
+   "coverage": 0.999
+  },
+  "gj_swingBtn_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.369,
+   "fillRatio": 0.582,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 318,
+   "coverage": 0.997
+  },
+  "gj_tiktokIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.209,
+   "fillRatio": 0.639,
+   "explained": 0.975,
+   "outline": "gradient",
+   "glyph": "white",
+   "fill": "#111111",
+   "refined": 896,
+   "coverage": 0.934
+  },
+  "gj_twIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.219,
+   "fillRatio": 0.725,
+   "explained": 0.969,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1102,
+   "coverage": 0.934
+  },
+  "gj_twitchIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.311,
+   "fillRatio": 0.667,
+   "explained": 0.993,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 723,
+   "coverage": 0.939
+  },
+  "gj_ytIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.241,
+   "fillRatio": 0.747,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 828,
+   "coverage": 0.931
+  },
+  "global_tab_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.217,
+   "fillRatio": 0.771,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 333,
+   "coverage": 0.999
+  },
+  "global_tab_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.215,
+   "fillRatio": 0.773,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 307,
+   "coverage": 0.998
+  },
+  "gplusSignIn_001.png": {
+   "themed": false,
+   "gradRatio": 0.006,
+   "fillRatio": 0.0,
+   "explained": 0.237,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gplusSignOut_001.png": {
+   "themed": false,
+   "gradRatio": 0.007,
+   "fillRatio": 0.0,
+   "explained": 0.215,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "groundSquareShadow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "hideBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.63,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "highObjectIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.225,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "iceShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.117,
+   "fillRatio": 0.002,
+   "explained": 0.228,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "iceShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.048,
+   "fillRatio": 0.0,
+   "explained": 0.053,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "iceShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.157,
+   "fillRatio": 0.005,
+   "explained": 0.284,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "label_of_001.png": {
+   "themed": false,
+   "gradRatio": 0.015,
+   "fillRatio": 0.001,
+   "explained": 0.272,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "label_paths_001.png": {
+   "themed": false,
+   "gradRatio": 0.008,
+   "fillRatio": 0.001,
+   "explained": 0.267,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "label_power_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.001,
+   "explained": 0.234,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "label_shards_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.001,
+   "explained": 0.235,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "lavaShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.077,
+   "fillRatio": 0.001,
+   "explained": 0.1,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "lavaShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "lavaShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.07,
+   "fillRatio": 0.001,
+   "explained": 0.079,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "levelLeaderboard_friendsBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.002,
+   "fillRatio": 0.003,
+   "explained": 0.216,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "levelLeaderboard_globalBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.271,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "levelLeaderboard_globalWeeklyBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.261,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "levelLeaderboard_localBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.002,
+   "explained": 0.221,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "miniSkull_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.667,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "modBadge_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.072,
+   "fillRatio": 0.0,
+   "explained": 0.074,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "modBadge_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.148,
+   "fillRatio": 0.001,
+   "explained": 0.152,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "modBadge_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.044,
+   "fillRatio": 0.0,
+   "explained": 0.044,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "moon_small01_001.png": {
+   "themed": false,
+   "gradRatio": 0.017,
+   "fillRatio": 0.0,
+   "explained": 0.023,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "navArrowBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.77,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "ncs_large_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.648,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "ncs_med_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.601,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "ncs_small_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.584,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "newMusicIcon2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.186,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "newMusicIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.186,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.057,
+   "fillRatio": 0.0,
+   "explained": 0.078,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.005,
+   "fillRatio": 0.0,
+   "explained": 0.005,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_04_001.png": {
+   "themed": false,
+   "gradRatio": 0.045,
+   "fillRatio": 0.001,
+   "explained": 0.047,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_05_001.png": {
+   "themed": false,
+   "gradRatio": 0.015,
+   "fillRatio": 0.0,
+   "explained": 0.015,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_06_001.png": {
+   "themed": false,
+   "gradRatio": 0.014,
+   "fillRatio": 0.0,
+   "explained": 0.037,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_07_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_08_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.011,
+   "explained": 0.73,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_09_001.png": {
+   "themed": false,
+   "gradRatio": 0.002,
+   "fillRatio": 0.0,
+   "explained": 0.025,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "pathIcon_10_001.png": {
+   "themed": false,
+   "gradRatio": 0.075,
+   "fillRatio": 0.0,
+   "explained": 0.078,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerSquare_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.812,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "player_special_01_001.png": {
+   "themed": true,
+   "gradRatio": 0.198,
+   "fillRatio": 0.779,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 216,
+   "coverage": 0.998
+  },
+  "player_special_02_001.png": {
+   "themed": true,
+   "gradRatio": 0.803,
+   "fillRatio": 0.162,
+   "explained": 0.978,
+   "outline": "none",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 59,
+   "glow": 77,
+   "coverage": 0.98
+  },
+  "player_special_03_001.png": {
+   "themed": true,
+   "gradRatio": 0.652,
+   "fillRatio": 0.347,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 78,
+   "coverage": 0.998
+  },
+  "player_special_04_001.png": {
+   "themed": true,
+   "gradRatio": 0.679,
+   "fillRatio": 0.321,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 83,
+   "coverage": 0.998
+  },
+  "player_special_05_001.png": {
+   "themed": true,
+   "gradRatio": 0.5,
+   "fillRatio": 0.494,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 78,
+   "coverage": 0.998
+  },
+  "player_special_06_001.png": {
+   "themed": true,
+   "gradRatio": 0.489,
+   "fillRatio": 0.504,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 78,
+   "coverage": 0.998
+  },
+  "player_special_07_001.png": {
+   "themed": true,
+   "gradRatio": 0.437,
+   "fillRatio": 0.525,
+   "explained": 0.975,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 342,
+   "coverage": 0.995
+  },
+  "poisonShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.053,
+   "fillRatio": 0.002,
+   "explained": 0.143,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "poisonShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.035,
+   "fillRatio": 0.0,
+   "explained": 0.035,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "poisonShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.074,
+   "fillRatio": 0.005,
+   "explained": 0.179,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "poweredBy_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_1_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_all_001.png": {
+   "themed": false,
+   "gradRatio": 0.128,
+   "fillRatio": 0.003,
+   "explained": 0.143,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top10000_001.png": {
+   "themed": false,
+   "gradRatio": 0.063,
+   "fillRatio": 0.0,
+   "explained": 0.063,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top1000_001.png": {
+   "themed": false,
+   "gradRatio": 0.114,
+   "fillRatio": 0.0,
+   "explained": 0.114,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top100_001.png": {
+   "themed": false,
+   "gradRatio": 0.034,
+   "fillRatio": 0.0,
+   "explained": 0.034,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top10_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top200_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top2500_001.png": {
+   "themed": false,
+   "gradRatio": 0.127,
+   "fillRatio": 0.0,
+   "explained": 0.127,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top5000_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top500_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rankIcon_top50_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.8,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "rewardCorner_001.png": {
+   "themed": true,
+   "gradRatio": 0.392,
+   "fillRatio": 0.514,
+   "explained": 0.917,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 1347,
+   "coverage": 0.833
+  },
+  "rewardsLabel_001.png": {
+   "themed": true,
+   "gradRatio": 0.483,
+   "fillRatio": 0.509,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3264,
+   "coverage": 0.994
+  },
+  "robtoplogo_small.png": {
+   "themed": true,
+   "gradRatio": 0.62,
+   "fillRatio": 0.364,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 526,
+   "coverage": 1.0
+  },
+  "secretCoinUI2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.87,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "secretCoinUI_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.002,
+   "explained": 0.133,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "secretDoorBtn2_closed_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.038,
+   "explained": 0.371,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "secretDoorBtn2_open_001.png": {
+   "themed": false,
+   "gradRatio": 0.015,
+   "fillRatio": 0.117,
+   "explained": 0.458,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "secretDoorBtn_closed_001.png": {
+   "themed": false,
+   "gradRatio": 0.008,
+   "fillRatio": 0.047,
+   "explained": 0.388,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "secretDoorBtn_open_001.png": {
+   "themed": false,
+   "gradRatio": 0.043,
+   "fillRatio": 0.116,
+   "explained": 0.494,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shadowShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.064,
+   "fillRatio": 0.001,
+   "explained": 0.136,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shadowShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.122,
+   "fillRatio": 0.0,
+   "explained": 0.123,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shadowShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.064,
+   "fillRatio": 0.004,
+   "explained": 0.127,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0201ShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.016,
+   "fillRatio": 0.0,
+   "explained": 0.016,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0201ShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.004,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0201ShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0202ShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.049,
+   "fillRatio": 0.0,
+   "explained": 0.067,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0202ShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.034,
+   "fillRatio": 0.0,
+   "explained": 0.039,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0202ShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.044,
+   "fillRatio": 0.0,
+   "explained": 0.054,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0203ShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.728,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0203ShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.015,
+   "explained": 0.632,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0203ShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.641,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0204ShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.056,
+   "fillRatio": 0.0,
+   "explained": 0.238,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0204ShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.009,
+   "fillRatio": 0.0,
+   "explained": 0.129,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0204ShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.07,
+   "fillRatio": 0.0,
+   "explained": 0.2,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0205ShardBig_001.png": {
+   "themed": false,
+   "gradRatio": 0.186,
+   "fillRatio": 0.0,
+   "explained": 0.189,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0205ShardLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.083,
+   "fillRatio": 0.0,
+   "explained": 0.083,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard0205ShardSmall_001.png": {
+   "themed": false,
+   "gradRatio": 0.165,
+   "fillRatio": 0.0,
+   "explained": 0.17,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard2Shadow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard2_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shardShadow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shard_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shineBurst_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.013,
+   "explained": 0.683,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.009,
+   "fillRatio": 0.0,
+   "explained": 0.039,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.002,
+   "fillRatio": 0.0,
+   "explained": 0.019,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_04_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.0,
+   "explained": 0.038,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_05_001.png": {
+   "themed": false,
+   "gradRatio": 0.013,
+   "fillRatio": 0.0,
+   "explained": 0.054,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shipfireIcon_06_001.png": {
+   "themed": false,
+   "gradRatio": 0.01,
+   "fillRatio": 0.0,
+   "explained": 0.038,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shopRope_001.png": {
+   "themed": false,
+   "gradRatio": 0.003,
+   "fillRatio": 0.0,
+   "explained": 0.006,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "sideBtn_chat_001.png": {
+   "themed": true,
+   "gradRatio": 0.246,
+   "fillRatio": 0.656,
+   "explained": 0.954,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 800,
+   "coverage": 0.888
+  },
+  "sideBtn_config_001.png": {
+   "themed": true,
+   "gradRatio": 0.236,
+   "fillRatio": 0.678,
+   "explained": 0.96,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 752,
+   "coverage": 0.888
+  },
+  "sideBtn_damageOff_001.png": {
+   "themed": true,
+   "gradRatio": 0.269,
+   "fillRatio": 0.609,
+   "explained": 0.942,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 891,
+   "coverage": 0.888
+  },
+  "sideBtn_damageOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.197,
+   "fillRatio": 0.724,
+   "explained": 0.962,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 738,
+   "coverage": 0.888
+  },
+  "sideBtn_grid_001.png": {
+   "themed": true,
+   "gradRatio": 0.264,
+   "fillRatio": 0.604,
+   "explained": 0.941,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 892,
+   "coverage": 0.888
+  },
+  "sideBtn_hide_001.png": {
+   "themed": true,
+   "gradRatio": 0.235,
+   "fillRatio": 0.674,
+   "explained": 0.955,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 789,
+   "coverage": 0.888
+  },
+  "sideBtn_options_001.png": {
+   "themed": true,
+   "gradRatio": 0.264,
+   "fillRatio": 0.63,
+   "explained": 0.951,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 822,
+   "coverage": 0.888
+  },
+  "sideBtn_platUI_001.png": {
+   "themed": true,
+   "gradRatio": 0.27,
+   "fillRatio": 0.618,
+   "explained": 0.948,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 844,
+   "coverage": 0.888
+  },
+  "sideBtn_practiceUI_001.png": {
+   "themed": true,
+   "gradRatio": 0.289,
+   "fillRatio": 0.618,
+   "explained": 0.955,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 791,
+   "coverage": 0.888
+  },
+  "sideBtn_quests_001.png": {
+   "themed": true,
+   "gradRatio": 0.277,
+   "fillRatio": 0.622,
+   "explained": 0.955,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 788,
+   "coverage": 0.888
+  },
+  "sideBtn_time_001.png": {
+   "themed": true,
+   "gradRatio": 0.238,
+   "fillRatio": 0.665,
+   "explained": 0.953,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 803,
+   "coverage": 0.888
+  },
+  "star_small01_001.png": {
+   "themed": true,
+   "gradRatio": 1.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 165,
+   "coverage": 0.994
+  },
+  "storeItemIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.009,
+   "explained": 0.01,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "theSafeLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.008,
+   "fillRatio": 0.002,
+   "explained": 0.344,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "tier1Icon_001.png": {
+   "themed": true,
+   "gradRatio": 0.319,
+   "fillRatio": 0.661,
+   "explained": 0.995,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 109,
+   "coverage": 0.997
+  },
+  "tier2Icon_001.png": {
+   "themed": true,
+   "gradRatio": 0.414,
+   "fillRatio": 0.548,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 84,
+   "coverage": 0.997
+  },
+  "topListsLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.016,
+   "fillRatio": 0.001,
+   "explained": 0.246,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "top_tab_off_001.png": {
+   "themed": true,
+   "gradRatio": 0.165,
+   "fillRatio": 0.823,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 283,
+   "coverage": 0.999
+  },
+  "top_tab_on_001.png": {
+   "themed": true,
+   "gradRatio": 0.167,
+   "fillRatio": 0.819,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 293,
+   "coverage": 0.996
+  },
+  "uiDot_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.006,
+   "explained": 0.459,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "usercoin_small01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.801,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpBtn_01_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.6,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpBtn_02_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.567,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpBtn_03_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.565,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpLockOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpLockOnBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.36,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "weeklyLevelLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.026,
+   "fillRatio": 0.0,
+   "explained": 0.259,
+   "outline": "none",
+   "glyph": "none"
+  }
+ },
+ "GJ_GameSheet04-uhd": {
+  "GJ_attemptsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.51,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_bonusBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.002,
+   "fillRatio": 0.001,
+   "explained": 0.113,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_challengeBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.2,
+   "fillRatio": 0.693,
+   "explained": 0.897,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3934,
+   "glow": 366,
+   "coverage": 0.9
+  },
+  "GJ_createBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.221,
+   "fillRatio": 0.75,
+   "explained": 0.987,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4842,
+   "coverage": 0.899
+  },
+  "GJ_creatorBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.278,
+   "fillRatio": 0.63,
+   "explained": 0.942,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4826,
+   "coverage": 0.901
+  },
+  "GJ_customSFXButton_001.png": {
+   "themed": true,
+   "gradRatio": 0.218,
+   "fillRatio": 0.699,
+   "explained": 0.96,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1776,
+   "coverage": 0.956
+  },
+  "GJ_dailyBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.19,
+   "fillRatio": 0.763,
+   "explained": 0.984,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 5415,
+   "coverage": 0.898
+  },
+  "GJ_editorArrow_001.png": {
+   "themed": true,
+   "gradRatio": 0.188,
+   "fillRatio": 0.772,
+   "explained": 0.974,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 804,
+   "coverage": 0.871
+  },
+  "GJ_eventBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.146,
+   "fillRatio": 0.837,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2675,
+   "coverage": 0.9
+  },
+  "GJ_exportBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.291,
+   "fillRatio": 0.598,
+   "explained": 0.949,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 837,
+   "coverage": 0.888
+  },
+  "GJ_featuredBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.218,
+   "fillRatio": 0.761,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4356,
+   "coverage": 0.899
+  },
+  "GJ_flagIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.233,
+   "explained": 0.69,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_followIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_freeLevelsBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.002,
+   "explained": 0.391,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_fullBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.062,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_gauntletsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.304,
+   "fillRatio": 0.675,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4546,
+   "coverage": 0.898
+  },
+  "GJ_highscoreBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.274,
+   "fillRatio": 0.708,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4308,
+   "coverage": 0.899
+  },
+  "GJ_idNextBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.228,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_idSearchBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.188,
+   "fillRatio": 0.751,
+   "explained": 0.963,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 233,
+   "coverage": 1.0
+  },
+  "GJ_importBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.296,
+   "fillRatio": 0.601,
+   "explained": 0.952,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 811,
+   "coverage": 0.888
+  },
+  "GJ_listsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.135,
+   "fillRatio": 0.852,
+   "explained": 0.999,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3031,
+   "coverage": 0.9
+  },
+  "GJ_mainSFXButton_001.png": {
+   "themed": false,
+   "gradRatio": 0.004,
+   "fillRatio": 0.003,
+   "explained": 0.262,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_manageBackupBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.305,
+   "fillRatio": 0.568,
+   "explained": 0.943,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 882,
+   "coverage": 0.888
+  },
+  "GJ_mapBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.157,
+   "fillRatio": 0.821,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3187,
+   "coverage": 0.901
+  },
+  "GJ_mapPacksBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.429,
+   "fillRatio": 0.551,
+   "explained": 0.99,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4235,
+   "coverage": 0.899
+  },
+  "GJ_moreGamesBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.042,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_newsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.279,
+   "fillRatio": 0.663,
+   "explained": 0.971,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2021,
+   "coverage": 0.956
+  },
+  "GJ_noStarsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.0,
+   "explained": 0.001,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_pathsBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.173,
+   "fillRatio": 0.814,
+   "explained": 0.998,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3095,
+   "coverage": 0.9
+  },
+  "GJ_playBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.256,
+   "fillRatio": 0.698,
+   "explained": 0.97,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 6819,
+   "coverage": 0.904
+  },
+  "GJ_sAudioDLIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.35,
+   "fillRatio": 0.003,
+   "explained": 0.371,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sExportIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.008,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sHelpIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sMarkerIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.474,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sSFXIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.593,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sSaveIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.328,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_sSettingsIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_safeBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.628,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_savedBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.167,
+   "fillRatio": 0.819,
+   "explained": 0.991,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4087,
+   "coverage": 0.899
+  },
+  "GJ_searchBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.16,
+   "fillRatio": 0.823,
+   "explained": 0.994,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3464,
+   "coverage": 0.901
+  },
+  "GJ_searchIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.014,
+   "explained": 0.024,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_trophyIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.566,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_versusBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.2,
+   "fillRatio": 0.782,
+   "explained": 0.997,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 3377,
+   "coverage": 0.9
+  },
+  "GJ_weeklyBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.29,
+   "fillRatio": 0.684,
+   "explained": 0.988,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 4708,
+   "coverage": 0.9
+  },
+  "accountBtn_invites_001.png": {
+   "themed": true,
+   "gradRatio": 0.26,
+   "fillRatio": 0.665,
+   "explained": 0.964,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1184,
+   "coverage": 0.892
+  },
+  "accountBtn_notifications_001.png": {
+   "themed": true,
+   "gradRatio": 0.233,
+   "fillRatio": 0.702,
+   "explained": 0.965,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1636,
+   "coverage": 0.954
+  },
+  "accountBtn_unblock_001.png": {
+   "themed": true,
+   "gradRatio": 0.298,
+   "fillRatio": 0.635,
+   "explained": 0.963,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1685,
+   "coverage": 0.954
+  },
+  "bonusLevelsLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.007,
+   "fillRatio": 0.001,
+   "explained": 0.248,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "boost_01_shine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "boost_02_shine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "boost_03_shine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "boost_04_shine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "boost_05_shine_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_LB_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.828,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_LT_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.015,
+   "explained": 0.779,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_RB_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.008,
+   "explained": 0.828,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "controllerBtn_RT_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.015,
+   "explained": 0.776,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deathMarker_bg_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.758,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deathMarker_red_global_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "deathMarker_x_white_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.457,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_skullIconGray_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.017,
+   "explained": 0.63,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_skullIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_skullIcon_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_wallIconGray_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.768,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_wallIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "death_wallIcon_glow_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "downArrowBtn2_001.png": {
+   "themed": true,
+   "gradRatio": 0.148,
+   "fillRatio": 0.78,
+   "explained": 0.966,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 705,
+   "coverage": 0.862
+  },
+  "downArrowBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.198,
+   "fillRatio": 0.754,
+   "explained": 0.979,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 556,
+   "coverage": 0.82
+  },
+  "dtrackBtn_global_001.png": {
+   "themed": true,
+   "gradRatio": 0.309,
+   "fillRatio": 0.569,
+   "explained": 0.942,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 864,
+   "coverage": 0.914
+  },
+  "dtrackBtn_local_001.png": {
+   "themed": true,
+   "gradRatio": 0.251,
+   "fillRatio": 0.672,
+   "explained": 0.961,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 721,
+   "coverage": 0.914
+  },
+  "dtrackBtn_search_001.png": {
+   "themed": true,
+   "gradRatio": 0.225,
+   "fillRatio": 0.69,
+   "explained": 0.958,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 743,
+   "coverage": 0.914
+  },
+  "dtrack_full_001.png": {
+   "themed": true,
+   "gradRatio": 0.226,
+   "fillRatio": 0.683,
+   "explained": 0.954,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1146,
+   "coverage": 0.934
+  },
+  "dtrack_fullsp_001.png": {
+   "themed": true,
+   "gradRatio": 0.23,
+   "fillRatio": 0.667,
+   "explained": 0.951,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1189,
+   "coverage": 0.934
+  },
+  "dtrack_graph_001.png": {
+   "themed": true,
+   "gradRatio": 0.182,
+   "fillRatio": 0.772,
+   "explained": 0.977,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 856,
+   "coverage": 0.934
+  },
+  "dtrack_list_001.png": {
+   "themed": true,
+   "gradRatio": 0.211,
+   "fillRatio": 0.699,
+   "explained": 0.956,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1118,
+   "coverage": 0.934
+  },
+  "dtrack_pillar2_001.png": {
+   "themed": true,
+   "gradRatio": 0.223,
+   "fillRatio": 0.699,
+   "explained": 0.966,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 997,
+   "coverage": 0.934
+  },
+  "dtrack_pillar_001.png": {
+   "themed": true,
+   "gradRatio": 0.248,
+   "fillRatio": 0.66,
+   "explained": 0.961,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1060,
+   "coverage": 0.934
+  },
+  "dtrack_prog_001.png": {
+   "themed": true,
+   "gradRatio": 0.249,
+   "fillRatio": 0.661,
+   "explained": 0.958,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1097,
+   "coverage": 0.934
+  },
+  "dtrack_rate_001.png": {
+   "themed": true,
+   "gradRatio": 0.233,
+   "fillRatio": 0.694,
+   "explained": 0.967,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 980,
+   "coverage": 0.934
+  },
+  "dtrack_raw_001.png": {
+   "themed": true,
+   "gradRatio": 0.24,
+   "fillRatio": 0.669,
+   "explained": 0.961,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1063,
+   "coverage": 0.934
+  },
+  "dtrack_sp_001.png": {
+   "themed": true,
+   "gradRatio": 0.246,
+   "fillRatio": 0.696,
+   "explained": 0.975,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 886,
+   "coverage": 0.934
+  },
+  "edit_LDMBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.838,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_traceInBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.488,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "edit_traceOutBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.01,
+   "explained": 0.506,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "exportIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "followBtnOff_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.011,
+   "explained": 0.798,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "followBtnOn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.004,
+   "explained": 0.186,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_01_collected_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_01_off_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.21,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_01_on_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.003,
+   "explained": 0.179,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_02_collected_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_02_off_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.105,
+   "explained": 0.908,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gjCoinUI_02_on_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.007,
+   "explained": 0.851,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_dailyCrown_001.png": {
+   "themed": false,
+   "gradRatio": 0.006,
+   "fillRatio": 0.002,
+   "explained": 0.155,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_eventCrown_001.png": {
+   "themed": false,
+   "gradRatio": 0.008,
+   "fillRatio": 0.001,
+   "explained": 0.13,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_weeklyCrown_001.png": {
+   "themed": false,
+   "gradRatio": 0.007,
+   "fillRatio": 0.099,
+   "explained": 0.586,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "importIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "moveFolderBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.302,
+   "fillRatio": 0.584,
+   "explained": 0.939,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1112,
+   "coverage": 0.867
+  },
+  "newFolderBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.305,
+   "fillRatio": 0.582,
+   "explained": 0.94,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1102,
+   "coverage": 0.867
+  },
+  "notification_icon_001.png": {
+   "themed": false,
+   "gradRatio": 0.017,
+   "fillRatio": 0.001,
+   "explained": 0.018,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_002.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_003.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_004.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_005.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_006.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_007.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_008.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "playerDash2_boom2_009.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_01_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_01_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_02_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_02_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_03_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_03_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_04_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_04_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_05_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_05_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_06_back_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "portalshine_06_front_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "searchIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.026,
+   "explained": 0.585,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "shareFolderBtn_001.png": {
+   "themed": true,
+   "gradRatio": 0.27,
+   "fillRatio": 0.614,
+   "explained": 0.949,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1033,
+   "coverage": 0.867
+  },
+  "shuffleIcon_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.028,
+   "explained": 0.656,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "sideBtn_death_001.png": {
+   "themed": true,
+   "gradRatio": 0.29,
+   "fillRatio": 0.594,
+   "explained": 0.947,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 852,
+   "coverage": 0.888
+  },
+  "sideBtn_marker_001.png": {
+   "themed": true,
+   "gradRatio": 0.218,
+   "fillRatio": 0.703,
+   "explained": 0.962,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 737,
+   "coverage": 0.888
+  },
+  "sideBtn_search_001.png": {
+   "themed": true,
+   "gradRatio": 0.224,
+   "fillRatio": 0.69,
+   "explained": 0.958,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 769,
+   "coverage": 0.888
+  },
+  "spiderDash_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_002.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_003.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_004.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_005.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_006.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_007.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "spiderDash_008.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "statInfoIcon_001.png": {
+   "themed": true,
+   "gradRatio": 0.201,
+   "fillRatio": 0.706,
+   "explained": 0.943,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 454,
+   "coverage": 0.967
+  },
+  "theTowerDoor_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.065,
+   "explained": 0.444,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "theTowerLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "threadBtn_allOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.291,
+   "fillRatio": 0.611,
+   "explained": 0.947,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1381,
+   "coverage": 0.858
+  },
+  "threadBtn_blockOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.293,
+   "fillRatio": 0.595,
+   "explained": 0.944,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1422,
+   "coverage": 0.858
+  },
+  "threadBtn_copy_001.png": {
+   "themed": true,
+   "gradRatio": 0.254,
+   "fillRatio": 0.63,
+   "explained": 0.934,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1082,
+   "coverage": 0.868
+  },
+  "threadBtn_delete_001.png": {
+   "themed": true,
+   "gradRatio": 0.247,
+   "fillRatio": 0.683,
+   "explained": 0.975,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 796,
+   "coverage": 0.867
+  },
+  "threadBtn_dm_001.png": {
+   "themed": true,
+   "gradRatio": 0.277,
+   "fillRatio": 0.619,
+   "explained": 0.95,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1308,
+   "coverage": 0.861
+  },
+  "threadBtn_export_001.png": {
+   "themed": true,
+   "gradRatio": 0.29,
+   "fillRatio": 0.587,
+   "explained": 0.927,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1149,
+   "coverage": 0.868
+  },
+  "threadBtn_followOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.262,
+   "fillRatio": 0.635,
+   "explained": 0.947,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1382,
+   "coverage": 0.858
+  },
+  "threadBtn_friendOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.281,
+   "fillRatio": 0.615,
+   "explained": 0.951,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1336,
+   "coverage": 0.858
+  },
+  "threadBtn_groupOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.275,
+   "fillRatio": 0.61,
+   "explained": 0.942,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1413,
+   "coverage": 0.861
+  },
+  "threadBtn_ignoreOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.274,
+   "fillRatio": 0.619,
+   "explained": 0.947,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1342,
+   "coverage": 0.86
+  },
+  "threadBtn_importFolder_001.png": {
+   "themed": true,
+   "gradRatio": 0.255,
+   "fillRatio": 0.617,
+   "explained": 0.939,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1116,
+   "coverage": 0.867
+  },
+  "threadBtn_import_001.png": {
+   "themed": true,
+   "gradRatio": 0.297,
+   "fillRatio": 0.598,
+   "explained": 0.949,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1025,
+   "coverage": 0.867
+  },
+  "threadBtn_inboxOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.302,
+   "fillRatio": 0.592,
+   "explained": 0.946,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1394,
+   "coverage": 0.858
+  },
+  "threadBtn_markRead_001.png": {
+   "themed": true,
+   "gradRatio": 0.255,
+   "fillRatio": 0.661,
+   "explained": 0.965,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 963,
+   "coverage": 0.868
+  },
+  "threadBtn_muteOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.271,
+   "fillRatio": 0.627,
+   "explained": 0.951,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1303,
+   "coverage": 0.86
+  },
+  "threadBtn_selectAll_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.018,
+   "explained": 0.834,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "threadBtn_sentOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.293,
+   "fillRatio": 0.606,
+   "explained": 0.954,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1299,
+   "coverage": 0.858
+  },
+  "threadBtn_timeOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.242,
+   "fillRatio": 0.68,
+   "explained": 0.96,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1179,
+   "coverage": 0.86
+  },
+  "threadBtn_uncompletedOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.194,
+   "fillRatio": 0.741,
+   "explained": 0.967,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1090,
+   "coverage": 0.86
+  },
+  "threadBtn_vaultOn_001.png": {
+   "themed": true,
+   "gradRatio": 0.225,
+   "fillRatio": 0.673,
+   "explained": 0.948,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 1337,
+   "coverage": 0.861
+  },
+  "warpAnchorOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpAnchorOnBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.31,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpGridOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpGridOnBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.005,
+   "explained": 0.315,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpRotateOffBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "warpRotateOnBtn_001.png": {
+   "themed": false,
+   "gradRatio": 0.004,
+   "fillRatio": 0.005,
+   "explained": 0.301,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "weeklyLevelsLabel_001.png": {
+   "themed": false,
+   "gradRatio": 0.007,
+   "fillRatio": 0.001,
+   "explained": 0.272,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "youtubePlayButton_001.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.0,
+   "explained": 0.058,
+   "outline": "none",
+   "glyph": "none"
+  }
+ },
+ "GJ_LaunchSheet-uhd": {
+  ".": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "..": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_lite_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 0.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "GJ_logo_001.png": {
+   "themed": true,
+   "gradRatio": 0.35,
+   "fillRatio": 0.533,
+   "explained": 0.913,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#111111",
+   "refined": 11149,
+   "coverage": 0.999
+  },
+  "GJ_md_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.182,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "RobTopLogoBig_001.png": {
+   "themed": true,
+   "gradRatio": 0.63,
+   "fillRatio": 0.358,
+   "explained": 0.996,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#111111",
+   "refined": 2323,
+   "glow": 25291,
+   "coverage": 1.0
+  },
+  "cocos2DxLogo.png": {
+   "themed": false,
+   "gradRatio": 0.001,
+   "fillRatio": 0.015,
+   "explained": 0.217,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "fmodLogo.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.0,
+   "explained": 1.0,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_subzeroLogo_001.png": {
+   "themed": false,
+   "gradRatio": 0.0,
+   "fillRatio": 0.001,
+   "explained": 0.206,
+   "outline": "none",
+   "glyph": "none"
+  },
+  "gj_worldLogo_001.png": {
+   "themed": false,
+   "gradRatio": 0.009,
+   "fillRatio": 0.0,
+   "explained": 0.217,
+   "outline": "none",
+   "glyph": "none"
+  }
+ },
+ "GJ_square01-uhd": {
+  "GJ_square01.png": {
+   "themed": true,
+   "gradRatio": 0.071,
+   "fillRatio": 0.929,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_square02-uhd": {
+  "GJ_square02.png": {
+   "themed": true,
+   "gradRatio": 0.071,
+   "fillRatio": 0.929,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_square03-uhd": {
+  "GJ_square03.png": {
+   "themed": true,
+   "gradRatio": 0.083,
+   "fillRatio": 0.917,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_square04-uhd": {
+  "GJ_square04.png": {
+   "themed": true,
+   "gradRatio": 0.083,
+   "fillRatio": 0.917,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "GJ_square05-uhd": {
+  "GJ_square05.png": {
+   "themed": true,
+   "gradRatio": 0.071,
+   "fillRatio": 0.928,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "none",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "sliderthumb-uhd": {
+  "sliderthumb.png": {
+   "themed": true,
+   "gradRatio": 0.0,
+   "fillRatio": 0.698,
+   "explained": 1.0,
+   "outline": "white",
+   "glyph": "white",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ },
+ "sliderthumbsel-uhd": {
+  "sliderthumbsel.png": {
+   "themed": true,
+   "gradRatio": 0.236,
+   "fillRatio": 0.698,
+   "explained": 1.0,
+   "outline": "gradient",
+   "glyph": "gradient",
+   "fill": "#141414",
+   "coverage": 1.0
+  }
+ }
+}

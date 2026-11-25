@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "name": "Frosted",
+  "outline": {
+    "source": "theme",
+    "solid": "#f4f7fb",
+    "angle": 0, "flow": 0, "spin": 0
+  },
+  "fill": "#1b1f27",
+  "accent": "#ffffff",
+  "glyph": "accent",
+  "whiteOutline": "accent",
+  "fonts": { "bigFont": "#ffffff", "goldFont": "#ffffff" },
+  "glass": {
+    "amount": 0.72, "blur": 1, "blurSize": 3, "saturation": 1.5, "noise": 0.3,
+    "refraction": 0, "rim": 0, "dispersion": 0, "specular": 0, "edge": 24,
+    "scope": "buttons", "listFrames": true
+  },
+  "lists": { "glass": 0.75 }
+}

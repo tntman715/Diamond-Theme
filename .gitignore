@@ -1,0 +1,34 @@
+# 공개 저장소에 올리지 않는 것
+
+# 다른 사람의 팩에서 나온 분석 자료 (로컬 전용)
+preview/assets/rainbow/
+preview/assets/cobblestone/
+preview/assets/aero-dash/
+preview/assets/aero-dash-whole/
+preview/reports/
+hand-work/
+gemini-tasks/
+answers/
+tools/overrides/aero-dash.json
+tools/overrides/aero-dash-masks/
+
+# RobTop 리소스에서 나온 비교 자료, 옛 버전 백업
+gd-2209-check/
+backup-2208/
+
+# 빌드/임시 파일
+build/
+web/_test/
+_frag_check*.glsl
+__pycache__/
+*.pyc
+.claude/
+
+# RobTop 원본 그림과 그 그림을 그대로 보여 주는 자료
+# (모드가 쓰는 mod/resources/vanilla-gd__* 마스크는 넣는다)
+preview/assets/vanilla-gd/
+tools/benchmark/tasks/
+
+# 남의 팩이 찍힌 분석 그림
+docs/pack-analysis-*.png
+docs/vanilla-profile-*.png

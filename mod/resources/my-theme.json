@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "name": "My Theme",
+  "author": "",
+  "outline": {
+    "source": "theme",
+    "hsv": { "start": 120, "range": 240, "saturation": 0.4, "value": 1 },
+    "angle": 0, "flow": 0, "spin": 0.12
+  },
+  "fill": "original",
+  "accent": "#ffffff",
+  "glyph": "auto",
+  "whiteOutline": "accent",
+  "fonts": { "bigFont": "original", "goldFont": "original" },
+  "animation": { "press": "gd", "hoverGlow": 0.35, "idle": "none" },
+  "surface": {
+    "opacity": 1, "fillOpacity": 1, "fillOpacityScope": "icons",
+    "bevel": 0, "bevelSize": 12, "iconBevel": 0, "iconBevelSize": 6,
+    "innerShadow": 0, "innerShadowSize": 14
+  },
+  "lists": { "background": "original" },
+  "active": { "outline": "same", "fill": "same" },
+  "geodeButtons": true,
+  "packs": {
+    "diamond-vortex": {
+      "outline": { "source": "original", "flow": 0.1, "spin": 0 },
+      "glyph": "original"
+    }
+  }
+}

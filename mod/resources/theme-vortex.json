@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "name": "Vortex",
+  "outline": {
+    "source": "theme",
+    "hsv": { "start": 340, "range": 220, "saturation": 0.52, "value": 0.93 },
+    "angle": 45, "flow": 0.05, "spin": 0.08
+  },
+  "fill": "original",
+  "accent": "#ffffff",
+  "glyph": "gradient",
+  "whiteOutline": "accent",
+  "fonts": { "bigFont": "original", "goldFont": "original" }
+}
